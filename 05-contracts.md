@@ -4,6 +4,7 @@
 - **validator** *(ES: validador)* — A pure function that rejects without repairing the input. No I/O: no files, no DB, no sockets, no processes.
 - **L4a (decision event)** — The decision event of the channel: v / anchor / utc, plus role, alternatives, choice, references, seal. `utc` is declared and carries no authority; causal order is insertion order.
 - **reference is not signature** — An issue or comment reference points at a sign-off; it never IS one. A null sign-off reference requires a typed cause.
+- **signature ≠ sign-off** *(ES: firma criptográfica ≠ firma del Soberano)* — the signature is the Ed25519 64-byte proof of a key, always whole (128 hex characters); the sign-off is the Sovereign's decision that lands a change. The Spanish alias "firma" covers both — the collision with the highest instruction cost in the project. A trimmed signature is an ornament with a guarantee's name.
 - **mirror receipts** — Two mirror receipts carry state, code, count and SHA-256 of the payload only. Always SIMULATED; two equal false hashes do not make agreement.
 - **tier 1 / tier 2** — Tier 1: the decider's decision. Tier 2: the choice with score and probabilities. The tier-2 validator never reclassifies tier 1's output.
 - **score (finite or null)** — A finite number or nothing; never NaN, infinities, booleans or strings. Confidence never proves correctness; no range, no semantic threshold.

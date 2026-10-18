@@ -10,3 +10,15 @@
 - **Hexelion** — The reader behind the switch (see the Register's Entry 24).
 - **the Five Storms** *(ES: las Cinco Tormentas)* — The canonical storms.
 - **the real-graphic style** — The drawing style signed off by the Sovereign (2026-10-18), adopted in situ across app and web; text moves to the left side (A11Y). Official name pending.
+
+## Rename-winner verdicts (measured ES ↔ EN)
+
+| Winner | Alias | Measured |
+| --- | --- | --- |
+| the Rift | la Grieta | 12 ↔ 31 |
+| the Refuge | el Refugio | 1 ↔ 25 |
+| the Preceptor Statue | la Estatua | 12 ↔ 46 |
+| the Five Storms | las Tormentas | 26 ↔ 2 |
+| the Descent | la Caída | 22 ↔ 63 |
+
+- **the Descent** *(ES: la Caída)* — the abyssal work of seven sections (OPEN, CLIFF, START, TREMOR, SPLIT, FALL, GATE), drawn in the bubble language; determinism measured by bitmap hash: same scroll, same image.
