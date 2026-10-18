@@ -69,3 +69,21 @@
 - TWO-CLICK, contact sheet, MODE PLAN, the Harvest, stopping point — zero hits in the rack files: coined by the Desk in the ledger, not yet built in the project's own files. Declared, not absent.
 
 **Two native languages:** PreceptorOS speaks English for official names (the canon) and Spanish as the working gloss. The alias is history, not an error. *(ES: dos lenguas nativas — el inglés oficial del canon y el español de trabajo; el alias es historia, no error.)*
+
+
+## Third wave — external collisions with the live outside world (measured 2026-10-18)
+
+**What this is:** the project's own terms checked against today's live products and collectively accepted vocabulary, web-measured on 2026-10-18. Governed by the **external-collision law** (02-legislation.md): a collision with a live product in the project's own category renames; a collision with a generic word is absorbed by definition. Every verdict was signed off by the Sovereign the same day.
+
+| Term | Collides with (measured) | Verdict |
+|---|---|---|
+| atlas | ChatGPT Atlas — OpenAI's browser | KEPT — GREY AREA: the atlas here is the game-world engine, never the browser |
+| Codex · Claude Code · Mistral web | the external tools themselves | Not coinages — external preceptors, parts of the system; to be named as agents or functions, pending real lab verification and presentation in the app (MVP) |
+| astra | Project Astra — Google DeepMind's universal assistant | Absorbed into the preceptors ruling above |
+| the swarm | Swarm — OpenAI's multi-agent framework (evolved into the Agents SDK) | KEPT — GREY AREA: the five rack loops, never the framework |
+| ledger | Ledger — crypto hardware-wallet brand | KEPT — GREY AREA: the accounting word first; never the wallet |
+| the Register | The Register — tech news site | KEPT — qualified in public docs as "the rack's record" |
+| preceptor | clinical-education term; "The AI Preceptor" product | KEPT — PreceptorOS stays the brand; the bare word is a GREY AREA in education contexts |
+| Hexelion | Hexelion shower series (Hindware) — no tech collision | KEPT |
+
+**Pending (rack mission, buzon):** function-based naming of the external preceptors once verified in the lab and presented in the app; the rack-side sweep of internal lane names; the buzon → Comando rename (the Sovereign's terminal). Propose-only: each rename surfaces one at a time for the sign-off. *(ES: la misión queda en el Comando; nada se ejecuta sin FIRMO.)*
