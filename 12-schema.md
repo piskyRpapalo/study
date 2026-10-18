@@ -21,7 +21,7 @@ NO_DATA → measured → RENAME-SUGGESTED → (Sovereign's sign-off) → RENAME-
 
 **NO_DATA (measured as absent):** the official replacement for the retired oraculo node id · the owner of the style canon · where TWO-CLICK binaries would be served · the third-wave pairs not yet counted (runner, lock, fingerprint, envelope, troop, probe, batch, sweep)
 
-**GREY AREA (similares — never confuse):** sign-off vs seal vs signature · ledger vs Register · receipt vs entry · SIMULATED vs MEDIDO · PR vs merge · the Rift vs the personal crack · NO_DATA vs RED vs STALE · dormant vs absent · the swarm vs the batch swarm · blind judge vs context judge · loopback vs exposed · the two ceilings (web 10 KiB vs core 16 KiB) · Bronze vs Silver vs Gold (what validates, and who promotes) · reference vs signature
+**GREY AREA (similares — never confuse):** sign-off vs seal vs signature · ledger vs Register · receipt vs entry · SIMULATED vs MEDIDO · PR vs merge · the Rift vs the personal crack · NO_DATA vs RED vs STALE · dormant vs absent · the swarm vs the batch swarm · blind judge vs context judge · loopback vs exposed · the two ceilings (web 10 KiB vs core 16 KiB) · Bronze vs Silver vs Gold (what validates, and who promotes) · reference vs signature · atlas (the game-world engine) ≠ ChatGPT Atlas · the swarm ≠ OpenAI Swarm · the ledger ≠ Ledger (the wallet brand)
 
 ## How to unify while learning
 
