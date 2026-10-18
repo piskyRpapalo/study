@@ -31,3 +31,23 @@ Laws of the app that live inside the game with a visible body. Four are named; f
 - **the Observatory** *(ES: el Observatorio)* — STALE made playable: the dome where old data shows its age on screen instead of hiding it. The player sees the staleness; the game never dresses it fresh.
 - **the Reef of Gravestones** *(ES: el Arrecife de Tumbas)* — zero retention WITH a receipt: the Necropolis with a game face. Nothing is deleted; everything that retires is buried with its cause, in coral.
 - **the Latency Crystal** *(ES: el Cristal de Latencia)* — latency_crystal.js, measured on the metal: the visible cost of distance. Its color classes are hardware classes — gold, silver, bronze, dithering — a property of the measured link, never a quarantine shelf.
+
+### The mapping (measured in the October corpus)
+
+The corpus says it literally: the 9 objects ARE the manifest's laws turned into toys.
+
+| Object | The law it embodies |
+|---|---|
+| the State Buoy | the LIVE/STALE/NO_DATA stamps + Proof of Tick |
+| the Observatory | STALE honesty as a mechanic |
+| the Reef of Gravestones | zero retention WITH receipt + the Necropolis |
+| the Latency Crystal | the yardstick made lore |
+
+## The evidence economy — receipts, never balances (measured in the October corpus)
+
+- **the Stone Path** *(ES: el Sendero de Piedras)* — the ledger made game: each successful interaction lays one smooth river stone on the golden-green-violet path; progress is the path's length — every stone a measured close. Append-only, walkable.
+- **the Valve** *(ES: la Válvula de Polifonía)* — one piece with two names, now absorbed: closed = safety and fog; open = omniscience, heat and risk. Its machine face is the Wasmtime cell (64 MiB, zero I/O); its law was already written in game dialect: no payload designed to crash the other's client.
+- **Latency Crystals** — tok/s with machine, date and sha256: a resource that IS its evidence.
+- **Compressed Oxygen** *(ES: el Oxígeno Comprimido)* — the signed question-answer-verdict triple, bottled: an exchange that carries its own proof.
+- **the Breeder's Medal** *(ES: la Medalla de Criador)* — verifiable recognition, never a balance.
+- Doctrine: **customs doesn't charge, it registers** — the A2A market runs on receipts. That is why the resources never needed the prohibited names.
