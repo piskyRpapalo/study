@@ -1,0 +1,17 @@
+# 05 · Contracts — the app's closed forms (L4a / tier-2)
+
+- **closed contract** — Exact field sets; one extra or missing field = rejection with a cause. Never "leave it flexible".
+- **validator** *(ES: validador)* — A pure function that rejects without repairing the input. No I/O: no files, no DB, no sockets, no processes.
+- **L4a (decision event)** — The decision event of the channel: v / anchor / utc, plus role, alternatives, choice, references, seal. `utc` is declared and carries no authority; causal order is insertion order.
+- **reference is not signature** — An issue or comment reference points at a sign-off; it never IS one. A null sign-off reference requires a typed cause.
+- **mirror receipts** — Two mirror receipts carry state, code, count and SHA-256 of the payload only. Always SIMULATED; two equal false hashes do not make agreement.
+- **tier 1 / tier 2** — Tier 1: the decider's decision. Tier 2: the choice with score and probabilities. The tier-2 validator never reclassifies tier 1's output.
+- **score (finite or null)** — A finite number or nothing; never NaN, infinities, booleans or strings. Confidence never proves correctness; no range, no semantic threshold.
+- **abstention** *(ES: abstención)* — choice=NO_DATA + score=null + typed cause. Abstaining without a cause is a rejection, not an opinion.
+- **p_bp** — Probability in basis points per 10,000: probability = p_bp/10000. The inherited unit; reused, never reinvented.
+- **EPSILON=0** — Exact rational sum of probabilities (Fraction arithmetic). A 1e-300 deviation must fall red. No implicit tolerance, no rounded float sum.
+- **calibration** *(ES: calibración)* — The judge's trace: state, sha256, samples, hits, cause. A judge without a trace is red; the shape of a hash does not accredit calibration.
+- **harness** *(ES: arnés)* — tier, where, model, mode, hash, build, configuration — all mandatory. A producer without digest is rejected before inferring.
+- **digest / SHA-256** — The artifact's fingerprint; measured, never invented from its tag.
+- **charter** *(ES: cédula)* — A signed device/app identity credential (Ed25519). The Worker verifies; it never signs; it writes only hashes.
+- **the Corpus** — The pinned reference corpus (XERJ). Declared evidence, never a source of code.
