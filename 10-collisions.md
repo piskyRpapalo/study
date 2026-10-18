@@ -87,3 +87,21 @@
 | Hexelion | Hexelion shower series (Hindware) — no tech collision | KEPT |
 
 **Pending (rack mission, buzon):** function-based naming of the external preceptors once verified in the lab and presented in the app; the rack-side sweep of internal lane names; the buzon → Comando rename (the Sovereign's terminal). Propose-only: each rename surfaces one at a time for the sign-off. *(ES: la misión queda en el Comando; nada se ejecuta sin FIRMO.)*
+
+## Fourth wave — the corpus unification (measured in the October corpus 2026-10-18; repo counts pending)
+
+**What this is:** the terms coined while unifying the vocabulary against the October corpus (the Papers). Counts inside the corpus were measured by reading; counts in the repos are pending and declared NO_DATA until counted. All names are RENAME-SUGGESTED until the Sovereign's sign-off. *(ES: la cuarta ola — los términos que la unificación del corpus acuñó; nada sellado sin FIRMO.)*
+
+| Term | ES pair | What it is |
+|---|---|---|
+| countersign | contrafirma | the game's mutual signature (the attacker signs the challenge); never sign-off, never signature |
+| one state, many renders | un estado, muchas vistas | channel N1's signed finding: two stores = a broken contract |
+| telemetry vs measurement vs receipt | telemetría · medida · recibo | the actor's declared self-report vs the yardstick's verdict vs the worker's form — three acts, never one |
+| privilege levels N0–N4 | niveles de privilegio | the node's authority ladder; NOT the decision tiers (tier 1 / tier 2) — a different ladder |
+| the Papers | los Papeles | the October corpus of manifests (ideas, sessions, canon drafts); declared evidence, never code — distinct from the Corpus (XERJ) |
+| the State Buoy | la Boya del Estado | Proof of Tick with a game body: alive · fading · NO_DATA · unattended |
+| the Observatory | el Observatorio | STALE made playable: old data shows its age on screen |
+| the Reef of Gravestones | el Arrecife de Tumbas | zero retention WITH receipt: the Necropolis's game face |
+| the Latency Crystal | el Cristal de Latencia | latency_crystal.js measured on the metal; hardware classes, never quarantine shelves |
+
+**New GREY AREA pairs:** the Latency Crystal's classes (gold/silver/bronze of the measured link) vs the Bronze/Silver/Gold quarantine shelves · the Papers (October manifests) vs the Corpus (XERJ) · privilege levels N0–N4 vs decision tiers · telemetry vs measurement vs receipt.

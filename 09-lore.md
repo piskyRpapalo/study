@@ -22,3 +22,12 @@
 | the Descent | la Caída | 22 ↔ 63 |
 
 - **the Descent** *(ES: la Caída)* — the abyssal work of seven sections (OPEN, CLIFF, START, TREMOR, SPLIT, FALL, GATE), drawn in the bubble language; determinism measured by bitmap hash: same scroll, same image.
+
+## The nine objects — laws with game bodies (measured 2026-10-18)
+
+Laws of the app that live inside the game with a visible body. Four are named; five remain unrevealed = NO_DATA with cause. The English names are RENAME-SUGGESTED under the Alphabet rule: exists · tokenizes cheap · collides with nothing.
+
+- **the State Buoy** *(ES: la Boya del Estado)* — Proof of Tick with a game body: the floating machine that broadcasts the last measured tick. Its face is the machine's own record: alive: measured · fading: no news · NO_DATA · unattended 132 ticks. A buoy that invents a reading is a sunken lie.
+- **the Observatory** *(ES: el Observatorio)* — STALE made playable: the dome where old data shows its age on screen instead of hiding it. The player sees the staleness; the game never dresses it fresh.
+- **the Reef of Gravestones** *(ES: el Arrecife de Tumbas)* — zero retention WITH a receipt: the Necropolis with a game face. Nothing is deleted; everything that retires is buried with its cause, in coral.
+- **the Latency Crystal** *(ES: el Cristal de Latencia)* — latency_crystal.js, measured on the metal: the visible cost of distance. Its color classes are hardware classes — gold, silver, bronze, dithering — a property of the measured link, never a quarantine shelf.
