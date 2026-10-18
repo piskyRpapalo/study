@@ -27,5 +27,6 @@
 - `07-hardware.md` — the machines
 - `08-ai-fluency.md` — how AIs read this project
 - `09-lore.md` — the canon of TheGame
+- `10-collisions.md` — duplicate names and the rename-winner verdicts
 
-**Status:** v1 published 2026-10-18 under the Sovereign's sign-off. The silicon never signs.
+**Status:** v1 published 2026-10-18 under the Sovereign's sign-off; `10-collisions.md` added the same day under a second sign-off. The silicon never signs.
