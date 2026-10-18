@@ -16,3 +16,6 @@
 - **digest / SHA-256** — The artifact's fingerprint; measured, never invented from its tag.
 - **charter** *(ES: cédula)* — A signed device/app identity credential (Ed25519). The Worker verifies; it never signs; it writes only hashes.
 - **the Corpus** — The pinned reference corpus (XERJ). Declared evidence, never a source of code.
+- **countersign** *(ES: contrafirma)* — the game's mutual signature: the attacker signs the challenge it accepted, so a win is provable by both sides. Two or more nodes are needed to capture more than one NPC building. sign-off ≠ signature ≠ countersign: the Sovereign's word, the key's proof, the duel's mutual seal — three different acts, never interchangeable.
+- **policy vs engine** — the engine is fail-closed and pure; the policies are closed JSON, readable by humans and silicon alike. You change a JSON, not eight brains. An opinion that lives in code pretends to be a law.
+- **one state, many renders** *(ES: un estado, muchas vistas)* — signed finding of channel N1 (2026-10-12): one store of truth, as many renders as screens want. Two stores for one truth is a broken contract; the render never owns the state.

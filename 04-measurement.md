@@ -9,3 +9,5 @@
 - **stamps in receipts** — Every measured claim carries its stamp; SIMULATED fixtures are declared as such and never dressed as measured.
 - **measured close** *(ES: cierre con la medida)* — A close carries the figure beside it. "RESOLVED" without a number is a second opinion.
 - **incidence honesty** — A red run inside a green series stays in the record with its cause (even when the harness discarded the detail: internal cause NO_DATA). A bounce is never hidden behind a success.
+- **telemetry** *(ES: telemetría)* — Declared self-report with stamps: the actor says what it did, in the open. "The sound IS the telemetry" — a silent actor reports nothing. In airplane mode telemetry is NO_DATA without a voice: declared, never guessed. Distinct from **measurement** (a yardstick's verdict) and from **receipt** (a worker's report form).
+- **consult, don't remember** *(ES: consulta, no recuerdes)* — R-D1: every claim about what was signed off comes from disk — file, symbol and line — or it is NO_DATA with cause. The rule survives compaction: memory of a decision is opinion; the disk is the ledger's witness.

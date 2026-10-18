@@ -87,3 +87,37 @@
 | Hexelion | Hexelion shower series (Hindware) — no tech collision | KEPT |
 
 **Pending (rack mission, buzon):** function-based naming of the external preceptors once verified in the lab and presented in the app; the rack-side sweep of internal lane names; the buzon → Comando rename (the Sovereign's terminal). Propose-only: each rename surfaces one at a time for the sign-off. *(ES: la misión queda en el Comando; nada se ejecuta sin FIRMO.)*
+
+## Fourth wave — the corpus unification (measured in the October corpus 2026-10-18; repo counts pending)
+
+**What this is:** the terms coined while unifying the vocabulary against the October corpus (the Papers). Counts inside the corpus were measured by reading; counts in the repos are pending and declared NO_DATA until counted. All names are RENAME-SUGGESTED until the Sovereign's sign-off. *(ES: la cuarta ola — los términos que la unificación del corpus acuñó; nada sellado sin FIRMO.)*
+
+| Term | ES pair | What it is |
+|---|---|---|
+| countersign | contrafirma | the game's mutual signature (the attacker signs the challenge); never sign-off, never signature |
+| one state, many renders | un estado, muchas vistas | channel N1's signed finding: two stores = a broken contract |
+| telemetry vs measurement vs receipt | telemetría · medida · recibo | the actor's declared self-report vs the yardstick's verdict vs the worker's form — three acts, never one |
+| privilege levels N0–N4 | niveles de privilegio | the node's authority ladder; NOT the decision tiers (tier 1 / tier 2) — a different ladder |
+| the Papers | los Papeles | the October corpus of manifests (ideas, sessions, canon drafts); declared evidence, never code — distinct from the Corpus (XERJ) |
+| the State Buoy | la Boya del Estado | Proof of Tick with a game body: alive · fading · NO_DATA · unattended |
+| the Observatory | el Observatorio | STALE made playable: old data shows its age on screen |
+| the Reef of Gravestones | el Arrecife de Tumbas | zero retention WITH receipt: the Necropolis's game face |
+| the Latency Crystal | el Cristal de Latencia | latency_crystal.js measured on the metal; hardware classes, never quarantine shelves |
+
+**New GREY AREA pairs:** the Latency Crystal's classes (gold/silver/bronze of the measured link) vs the Bronze/Silver/Gold quarantine shelves · the Papers (October manifests) vs the Corpus (XERJ) · privilege levels N0–N4 vs decision tiers · telemetry vs measurement vs receipt.
+
+**Second sowing — the buried jewels, surfaced by the inverse re-reading (measured in the October corpus; sown before the sign-off so nothing is lost):**
+
+| Term | ES pair | What it is |
+|---|---|---|
+| the Stone Path | el Sendero de Piedras | the ledger made game: one river stone per measured closure, append-only, walkable |
+| the Valve | la Válvula de Polifonía | the sandbox with a game body (closed = safety; open = risk); the Wasmtime cell (64 MiB, zero I/O) is its machine face — one piece, two names absorbed |
+| Compressed Oxygen | el Oxígeno Comprimido | the signed question-answer-verdict triple as a resource |
+| the Breeder's Medal | la Medalla de Criador | verifiable recognition, never a balance |
+| no anonymous debt | sin deuda anónima | a metric without an assigned measurement task is not an absence: it is an anonymous debt — every tray row carries owner, command and seal (the Signing Tray's foundational law) |
+| the Eye's ports | los puertos del ojo | declared 8790 in the September manifest; the Eye today is 8807 + S110; room 8831 lives only in the digests — Necropolis aliases, history intact |
+| the bus channels | los canales del bus | thegame-estado · thegame-taller · boya · radio-estado · mapa · terminal-cangrejo · thegame-batalla — each panel declares its channel and LIVE/STALE(+Δ)/NO_DATA |
+| the regulatory renames | los renombrados regulatorios | the corpus declares RENAME PENDIENTE in its customs section and the state radio's file carries a regulatory name — debt the corpus already declared; enters the renaming map piece by piece under sign-off |
+| false green's origin | el origen del falso verde | J-WEB-11 (September corpus): the green seal only if the rack is measured available, and the counter that doesn't count — the corpus legislated it before the Study coined it |
+| the crab anatomy | la anatomía del cangrejo | Shell = Core · Claws = Army · Legs = Forest · Eyes = Lighthouse: the module-name source for the renaming map, one sign-off per name |
+| the Crab Account | la Cuenta Cangrejo | the corpus declared it THE structural decision of the protocol: bridge phase (the agent travels on YOUR charter) vs roving phase (the agent's own charter) — the choice is the Sovereign's, pending |
