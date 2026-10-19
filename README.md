@@ -42,5 +42,6 @@
 - `10-collisions.md` — duplicate names and the rename-winner verdicts
 - `11-repos.md` — the canonical census of repositories
 - `12-schema.md` — the four statuses of a term (the schema of this Study)
+- `DISAGREEMENTS.md` — the law of the disagreements-log (the RC-* register lives once, in preceptoros-web)
 
-**Status:** v1 published 2026-10-18 under the Sovereign's sign-off; `10-collisions.md`, `11-repos.md` and `12-schema.md` added the same day under further sign-offs. The silicon never signs.
+**Status:** v1 published 2026-10-18 under the Sovereign's sign-off; `10-collisions.md`, `11-repos.md` and `12-schema.md` added the same day under further sign-offs. `DISAGREEMENTS.md` (doctrine) proposed 2026-10-19, awaiting the Sovereign's sign-off. The silicon never signs.
