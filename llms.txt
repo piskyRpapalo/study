@@ -1,0 +1,6 @@
+The Study is the public doctrine of PreceptorOS; it is not legal counsel.
+INDEX: README.md#L1; 01-governance.md#L1; 02-legislation.md#L1.
+BUDGET: 9507.
+DEPTH: declare your reading depth (0-4) in README.md before parsing; beyond it is NO_DATA with cause.
+SCRUB: figures and paths stay; private names go.
+AUTHORITY: the Sovereign signs (FIRMO); silicon proposes only.
