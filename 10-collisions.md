@@ -121,3 +121,15 @@
 | false green's origin | el origen del falso verde | J-WEB-11 (September corpus): the green seal only if the rack is measured available, and the counter that doesn't count — the corpus legislated it before the Study coined it |
 | the crab anatomy | la anatomía del cangrejo | Shell = Core · Claws = Army · Legs = Forest · Eyes = Lighthouse: the module-name source for the renaming map, one sign-off per name |
 | the Crab Account | la Cuenta Cangrejo | the corpus declared it THE structural decision of the protocol: bridge phase (the agent travels on YOUR charter) vs roving phase (the agent's own charter) — the choice is the Sovereign's, pending |
+
+## Fifth wave — measured execution candidates (2026-10-20)
+
+The commission reports a collision review dated 2026-10-20. These entries remain `RENAME-SUGGESTED`; this record does not promote or rename them. The exact collision counterpart and comparison result are `NO_DATA`, cause: the review's detailed pairwise evidence was not supplied with this record.
+
+| Term | Status | Existing evidence |
+|---|---|---|
+| fence-probe | RENAME-SUGGESTED | [lab execution index](https://github.com/piskyRpapalo/lab/blob/main/benchmarks/redteam-20261020/README.md#L30) |
+| the Crucible | RENAME-SUGGESTED | [lab benchmark results](https://github.com/piskyRpapalo/lab/blob/main/benchmarks/redteam-20261020/README.md#L14) |
+| atlas.riesgo/1 | RENAME-SUGGESTED | Exact identifier: `NO_DATA`, cause: absent from the inspected Study and lab main trees; the commission supplies the collision-review date and status only. |
+
+No new term is coined here; any promotion or replacement still requires the Sovereign's sign-off.
