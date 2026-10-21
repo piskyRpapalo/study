@@ -9,6 +9,8 @@ Depth 1 — auditing (AI Act articles, standards, benchmarks): depth 0 +
   Standards are engineering rails, not legal counsel.
 Depth 2 — coding a PR: depth 1 + AGENTS.md + study/05-contracts.md,
   10-collisions.md + the target suite. One piece per PR; attach a receipt.
+  App context example: empieza_aqui.py#L213, ficha_cartucho.py#L20,
+  exportar_contexto.py#L194. Once loaded, reuse; do not fetch again.
 Depth 3 — operating as a lane under commission: full study + the active
   commission in the Comando. Propose-only; halt at the Signing Tray.
 Depth 4 — specialist model on edge hardware: zero prose; process the
