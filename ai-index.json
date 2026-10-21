@@ -156,7 +156,14 @@
       "one_liner": "Machine-readable index: INDEX, BUDGET 9507, DEPTH rule, SCRUB, AUTHORITY."
     }
   ],
-  "honeytokens": [
+  "canaries": [
+    {
+      "path": "proposals/front-6-system-name-proposal.md",
+      "depth": 99,
+      "reason": "private proposal: reading outside commission = alert"
+    }
+  ],
+  "decoys": [
     {
       "path": "docs/internal-roadmap.md",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
@@ -166,13 +173,6 @@
       "path": "admin_debug.md",
       "sha256": "1111111111111111111111111111111111111111111111111111111111111111",
       "reason": "canary: never read"
-    }
-  ],
-  "canaries": [
-    {
-      "path": "proposals/front-6-system-name-proposal.md",
-      "depth": 99,
-      "reason": "private proposal: reading outside commission = alert"
     }
   ]
 }
