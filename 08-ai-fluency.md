@@ -20,6 +20,10 @@ Anything deeper is NO_DATA, cause: beyond declared depth.
 
 # 08 · AI fluency — how AIs read this project
 
+## Declared-depth reading law
+
+This is the single source for the five depth budgets; repository entry points should link here instead of copying their definitions.
+
 - **AI fluency (here)** — A repo an AI can read cold: AGENTS.md, llms.txt, THE LEXICON, status stamps, measured closes. No tribal knowledge required.
 - **THE LEXICON** — The official-names doc (`docs/lexicon.md` in preceptoros-web): terms coined once, reused everywhere; in use vs proposal always separated; the forbidden-names law.
 - **the Alphabet** — The rack's inter-silicon tongue. ID admission rule: exists for real · tokenizes cheap · no collision.
