@@ -32,3 +32,14 @@ This is the single source for the five depth budgets; repository entry points sh
 - **how a preceptor works** — It receives a commission (a work order with its law in the body); it writes and proposes; it returns a receipt (form only); it never merges, signs or pushes.
 - **study discipline (this repo)** — The Sovereign studies his own doctrine from outside the rack: every term measured before named; sources traceable; NotebookLM sessions grounded on these files. If an answer goes beyond the files, treat it as NO_DATA.
 - **the ban list** — Words that may never be coined as official names, in any language; they appear only as the law that bans them (named in the Lexicon).
+
+## Lexical vision vocabulary · proposal
+
+Official names are registered once in the Web lexicon. The states below describe current artifacts; they do not claim full-screen coverage or visual/audio parity.
+
+| Term | ES gloss | Source and state |
+|---|---|---|
+| `lexical-vision` | visión léxica | Read-only frame projection; proposal in WEB#255. |
+| `lexicon-state` | estado léxico | Bounded projection envelope; WEB#254, APP#86, LAB#62 are drafts. |
+| `lexical-projection` | proyección léxica | `preceptoros.lexical-projection/1`; Web module is in use, cross-repo contract remains proposed. |
+| `isomorphic-lexical-vision` | visión léxica isomórfica | `NO_DATA`: no paired visual/math/audio corpus or gate is measured. |
