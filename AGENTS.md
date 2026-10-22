@@ -26,6 +26,7 @@ This is the single canonical instruction set for agents working in the study. To
 - Official names are in English (Renaming Law). Each entry carries a short Spanish gloss *(ES: …)* for study. A term is coined once (THE LEXICON, `docs/lexicon.md` in preceptoros-web) and reused everywhere — reuse before duplicating.
 - Do not commit raw prompts, raw answers, credentials, private identifiers, or personal data. Receipts and artifacts may contain counts and paths, never private values.
 - Preserve human review and zero data exfiltration. Do not send model inputs, outputs, or node state to an external service as part of a benchmark.
+- Read the scoped technical ceilings in `02-legislation.md`; do not restate their numeric values here.
 - Yardstick: there is no code suite in this repository. The gate is `python3 ../lab/bin/verify_llms_tree.py --root .` run from the lab clone, plus a read of the changed file. The local contract requires two runs for a piece. Remote CI is not configured in this repository; report that explicitly and never describe local checks as remote CI.
 - Read `README.md` for repository scope and `02-legislation.md` for the laws. If either is stale or does not contain a value, report `NO_DATA` with cause rather than copying an old number as live.
 - History is append-only. Never rewrite a past law; propose an amendment as a new file or a new section that cites the one it amends.
