@@ -15,3 +15,12 @@
 - **redirect** — GitHub redirects the old name after a repo rename; issues and clones keep living. Renaming is safe; deleting is not.
 - **AGENTS.md / llms.txt** — The files an AI reads when it lands in a repo. If you want a preceptor to understand your repo cold, its law lives here.
 - **worktree / staging (/tmp)** — A separate working area that does not touch main. "VERSION intact" means nothing served or registered yet.
+
+## Proposed amendments · pending FIRMO
+
+These amendments are proposals, not active law, until the Sovereign signs them.
+
+- **One working clone per repo** — Maintain one canonical writable clone for each repo. Isolated Git worktrees may share that clone for parallel branches; extra independent clones are archives, not sources of truth. Do not move, quarantine, or delete a clone without the owner's authorization.
+- **Measured web delivery** — A web change is not reported as delivered until its owning manifest is updated and the live surface is measured against the proposed revision. If the change is intended to work offline, include the service-worker cache and seal in that evidence. Otherwise report NO_DATA with its cause.
+
+The proposed rules do not change the current branch, sign-off, or sealing requirements before approval.
