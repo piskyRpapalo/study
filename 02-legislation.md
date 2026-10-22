@@ -2,7 +2,7 @@
 
 - **D1 (language law)** — English only in served code; no comments in served code. The D1 Guardian catches stray Spanish before commit.
 - **D3 (file-name map)** — The regulated renaming of served files (mar.js→sea.js, cria.js→brood.js…). Adopted as official; executed piece by piece under sign-off. Never all at once.
-- **one-piece ceiling (16,384 B)** — One piece = one file ≤ 16,384 B. Over the ceiling: prune or declare a split; the ceiling is never raised silently.
+- **one-piece efficiency rule (16,384 B)** — One piece = one file ≤ 16,384 B. Over the rule: prune or declare a split; the rule is never raised silently. This is an efficiency rule, modifiable by the Desk (D-B, FIRMO 2026-10-22); it is not a security limit. The 25 MiB deployed-chunk ceiling stays a technical limit.
 - **channel ceiling (1,024 B)** — The body of a channel event is under 1 KiB; it is rejected whole if it does not fit, never truncated.
 - **append-only** — History is only added to, never rewritten. An amendment is a new entry, not an edit.
 - **single-writer (no HLC this phase)** — One writer per register: insertion order IS causal order; `utc` is declared, carries no authority, and orders nothing. Hybrid logical clocks would only enter with multiple writers, under a separate sign-off.
@@ -20,7 +20,7 @@
 This entry governs active technical ceiling references; earlier shorthand remains historical and does not define a second limit.
 
 - **deployed chunk ceiling (25 MiB)** — One deployed chunk may not exceed 25 MiB. This is not a whole-site first-load budget.
-- **source-piece ceiling (16,384 B)** — One source piece is one file of at most 16,384 bytes.
+- **source-piece efficiency rule (16,384 B)** — One source piece is one file of at most 16,384 bytes. Efficiency rule, modifiable by the Desk; not a security limit.
 - **channel-event ceiling (1,024 B)** — A valid event body is strictly under 1,024 UTF-8 bytes; 1,024 bytes and above are rejected whole.
 
 These scopes are independent and cannot substitute for one another. The web first-load gzip gate remains a separate measured limit. This amendment supersedes the active-limit shorthand in `10-collisions.md`; its historical text is preserved.
