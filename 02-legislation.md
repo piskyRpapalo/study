@@ -24,3 +24,12 @@ This entry governs active technical ceiling references; earlier shorthand remain
 - **channel-event ceiling (1,024 B)** — A valid event body is strictly under 1,024 UTF-8 bytes; 1,024 bytes and above are rejected whole.
 
 These scopes are independent and cannot substitute for one another. The web first-load gzip gate remains a separate measured limit. This amendment supersedes the active-limit shorthand in `10-collisions.md`; its historical text is preserved.
+
+## Amendment proposal · D5 lexical projection
+
+Source: signed Study issue #3 (2026-10-20). This implementation clause remains a proposal until its draft is reviewed.
+
+- The shared envelope is `preceptoros.lexical-projection/1`; its projection is read-only and grants no authority.
+- A projection contains only declared fields. Missing or invalid source data is `NO_DATA` with a cause; no field is guessed or filled with a default.
+- The compact UTF-8 payload is strictly below 1,024 bytes. At or above the limit, reject the whole payload with a cause; never truncate it.
+- A matching visual, mathematical, and audible state is a separate measured claim. Until paired frames and hashes pass the same gate, isomorphic parity remains `NO_DATA`.
