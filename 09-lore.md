@@ -7,6 +7,8 @@
 - **the Refuge** *(ES: el Refugio)* — Where the world survived the Rift.
 - **the Preceptor Statue** *(ES: la Estatua del Preceptor)* — The statue that watches.
 - **the Radio** *(ES: la Radio)* — The only other voice.
+- **the Radio carrier** *(ES: portadora de la Radio)* — The state radio's measured base is 220 Hz (`preceptoros-web/public/game/aiact-art50-state-radio.js:4`).
+- **the troop voice carrier** *(ES: portadora de voz de tropa)* — The measured spectral voice starts at 110 Hz; harmonics determine its note and timbre (`preceptoros-web/public/game/core.js:61`).
 - **Hexelion** — The reader behind the switch (see the Register's Entry 24).
 - **the Five Storms** *(ES: las Cinco Tormentas)* — The canonical storms.
 - **the real-graphic style** — The drawing style signed off by the Sovereign (2026-10-18), adopted in situ across app and web; text moves to the left side (A11Y). Official name pending.
