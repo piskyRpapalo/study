@@ -14,3 +14,13 @@
 - **AI Act Article 14 pieces** — The app carries compliance artifacts (a game-policy file and a node-decide script aligned with EU AI Act Article 14, human oversight). Compliance pieces are declared, never claimed: no legal-compliance claim is ever made from the shape of an artifact.
 - **push embargo** — One machine of the fleet sits under a permanent push embargo; nothing is ever pushed there. Public traffic is zero: the app is local-first; the web makes zero external requests on load.
 - **external-collision law** — A coined term that collides with a live third-party product in the project's own category is renamed; a collision with a generic word is absorbed by definition. Verdicts live in `10-collisions.md`, each under the Sovereign's sign-off. *(ES: ley de colisión externa — choque con producto vivo en la propia categoría se renombra; choque con palabra genérica se absorbe por definición.)*
+
+## Amendment · scoped technical ceilings · 2026-10-22
+
+This entry governs active technical ceiling references; earlier shorthand remains historical and does not define a second limit.
+
+- **deployed chunk ceiling (25 MiB)** — One deployed chunk may not exceed 25 MiB. This is not a whole-site first-load budget.
+- **source-piece ceiling (16,384 B)** — One source piece is one file of at most 16,384 bytes.
+- **channel-event ceiling (1,024 B)** — A valid event body is strictly under 1,024 UTF-8 bytes; 1,024 bytes and above are rejected whole.
+
+These scopes are independent and cannot substitute for one another. The web first-load gzip gate remains a separate measured limit. This amendment supersedes the active-limit shorthand in `10-collisions.md`; its historical text is preserved.

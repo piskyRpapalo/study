@@ -38,7 +38,7 @@ Anything deeper is NO_DATA, cause: beyond declared depth.
 - **Official names are in English** (Renaming Law). Each entry carries a short Spanish gloss *(ES: …)* for study.
 - A term is coined **once** (THE LEXICON, `docs/lexicon.md` in preceptoros-web) and **reused everywhere** — reuse before duplicating.
 - **The eye's rule**: a term without a command that shows it is a belief, not knowledge.
-- One piece = one file ≤ 16,384 B.
+- Follow the scoped technical ceilings in `02-legislation.md`.
 
 ## How to study with NotebookLM (or any AI)
 
