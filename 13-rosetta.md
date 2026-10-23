@@ -137,3 +137,33 @@ preceptor-externo-constructor (Codex) · preceptor-arquitecto-cli (Claude Code) 
 ### Provenance of this amendment
 
 Code search returned 0 hits for sanctuary-node, forge-node, benchcard and context-lock; listings confirm absence. preceptor_cell.py exists despite 0 search hits (index lag; the listing wins). The FIRMO on this PR makes the PROPOSED rows triaged, never coined; each coinage still travels its own THE LEXICON PR.
+
+---
+
+## FOLD · 2026-10-23 · cosechas 2-5 + otros-ojos fundidas al documento raíz
+
+Propósito de la rosetta (declarado por el Soberano): lenguaje unificado — rename + fluidez de IA + vocabulario de preceptores — para que una IA EXTERNA, sin acceso al rack, lea GitHub, entienda de qué se habla y pueda verificar. Este documento raíz es el punto de entrada; las cosechas en proposals/ son la evidencia.
+
+### Mapa verificado hoy contra el metal (2026-10-23 · conteo y arquitectura)
+
+| ancla | estado hoy | evidencia |
+|---|---|---|
+| 13-rosetta.md vive en la RAÍZ de study (no en docs/) | CONFIRMADO | ls-tree origin/main |
+| 16 módulos del brief (H5-D.1) | 5 LIVE (arena, mercado, narragrafo, cria, genoma) · 11 NO_DATA | public/game/ |
+| ley gzip 150 KB | vive en textos de ley, NO en el código del juego | web/CLAUDE.md L12 · 0 matches en game |
+| fórmula racha slice(-2) | NO encontrada en el metal actual | grep streak y slice en game |
+| acústica | portadora base 110 Hz pentatónica (core.js L61); sin 220 en core | core.js |
+| tope de ejército | army_tope 60 · escuadrón tope 32 · esquiva tope 300 | valores.js L46/L32/L50 |
+| génesis v1.3 (tamaños declarados) | STALE: core 4.639 B · db 10.578 · gacha 6.005 · ui 10.567; city_node/a2a_routes renombrados a la familia nodos.js + node_* | public/game/ |
+| api del dominio público | 404 con cuerpo de backend Python tras Cloudflare; el Worker de aduana NO declara el dominio | wrangler.toml aduana |
+| registro encadenado (APP) | sha256 sobre texto canónico determinista; límite documentado: quien escribe puede re-encadenar; remedio = ancla externa | linea.py |
+
+### Ley de techos consolidada
+
+Un techo por ámbito, escrito una vez — ver proposals/ROSETTA_ENMIENDA_TECHOS_20261023.md (propuesta REQUIERE_FIRMA): pieza menor que 16.384 B raw · bloque 25 MiB · puerta gzip 153.600 B · canal y recibo 1.024 B.
+
+### Pendiente del carril del brazo (verificación A-E, study#43)
+
+A: sin testigo de borde, solo doctrina · B: eslabón del registro en revisión final · C: cliente vivo, receptor NO construido · D: LIVE/STALE/NO_DATA del metal cerrándose · E: excepción navegador = PROPUESTA esperando FIRMO.
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
