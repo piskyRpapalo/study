@@ -1,6 +1,6 @@
 The Study is the public doctrine of PreceptorOS; it is not legal counsel.
-INDEX: README.md#L1; 01-governance.md#L1; 02-legislation.md#L1.
-BUDGET: 11420.
+INDEX: README.md#L1; 01-governance.md#L1; 02-legislation.md#L1; proposals/ROSETTA_PROTOCOLO_RAMAS_20261023.md#L1.
+BUDGET: 16384.
 DEPTH: declare your reading depth (0-4) in README.md before parsing; beyond declared depth is NO_DATA with cause.
 REREAD: loaded is loaded; do not re-fetch what you already hold.
 SCRUB: figures and paths stay; private names go.
