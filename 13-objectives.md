@@ -57,7 +57,7 @@ Status: RENAME-SUGGESTED (12-schema.md); the rename decision pends with the Sove
 Objective: close the rename decision. Two phases: bridge (under the Sovereign's credential) and wandering (own Ed25519 key); the phase switch is a consequential action (REQUIERE_FIRMA).
 The Eye's rule: the device SHA footprint at Customs and the declared phase on the map.
 
-## MVP track (in flight, not NO_DATA)
-E4: staged work, pending realign + commit (the sandbox denies the loopback socket the hook needs). E6-E8: approved cards, not started. F3: browser-server measurement on the rack, physical audio/tactile, and the independent LIVE reading. Track: preceptoros-web#277.
+## MVP track (updated 2026-10-26 by the Mesa — measured close of the E-week)
+E8-final V2 journey SEALED LIVE — receipt chain buzon#19 (A 6376451329 · B 6376466401 · C 6376517629 · render 6376546273 · seal 6376680966); register: p0x/mesa/journey-luna-v2-registro.md (PR p0x#63, REQUIERE_FIRMA). Lane F closed 6/6 (web#288 08a0be93 · web#289 21b75d25 · web#290 · web#291 880704d3 · PreceptorOS#98 a89022b6 · PreceptorOS#99). Cards: local creation voice route MERGED (PreceptorOS#100, commit 85045e0, main 7885afe, receipt buzon#19/6377404930); public title hygiene MERGED (web#292, commits 8ed1b84 + 84283a6, seal preceptoros-2026-17-abjb served, huella b55facff4711f095, main cec9b30, receipt buzon#19/6377705091); prompt-to-2D creation and basic paint motor complete on rack branches awaiting the Sovereign's commit (seal 17-abjc assigned to basic paint motor); aduana gateway card not started. F3: the journey ran under the hands clause (Luna = declared first AI user; the Sovereign's hands actuate); the remaining physical audio/tactile reading is NO_DATA, cause: not yet measured on the rack. Track: preceptoros-web#277.
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
