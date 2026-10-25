@@ -2,9 +2,9 @@
 
 **State:** proposal only; no p0x file or service changed.
 
-Observed divergence: local p0x `HEAD` is 406 commits ahead and 345 behind GitHub `origin/master`. Its working checkout has 2 modified tracked files, 916 untracked items, and 556 ignored items. Preserve all of them; keep the path-and-hash inventory local. The local `HEAD`, GitHub unit, and installed user unit have identical bytes (1,509 B; SHA-256 recorded in the receipt), though the repository paths differ. No unit content edit is currently justified.
+Observed: p0x `HEAD` is 406 ahead and 345 behind GitHub `origin/master`; checkout status is 2 modified tracked, 916 untracked, and 556 ignored items. Preserve all; keep the path-and-hash inventory local. Local `HEAD`, GitHub, and installed user unit are byte-identical (1,509 B; hash in receipt) but repository paths differ. No content edit is justified.
 
-**Proposed sequence:** freeze the checkout; do not reset, clean, pull, rebase, or merge it. Ask the owner to select the canonical lineage and unit path. After that decision, use an isolated worktree from the selected base and transfer only the approved unit/path change. Review the staged diff, run the p0x hygiene hook and a unit syntax check, then return the result for per-PR FIRMO. No service reload or deployment before sign-off. Preserve the original checkout throughout.
+**Proposed sequence:** freeze; do not reset, clean, pull, rebase, or merge. The owner selects canonical lineage and unit path. After approval, use an isolated worktree from that base; transfer only the approved unit/path change. Review the staged diff; run the p0x hygiene hook and unit syntax check; submit for per-PR FIRMO. No reload or deployment before sign-off. Preserve the original checkout.
 
 ## Receipt
 
