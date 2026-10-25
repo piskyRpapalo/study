@@ -4,6 +4,10 @@
 
 A user who connects an app node becomes a direct collaborator and may visit that node from another device. Remote access remains undecided: compare a storage-free relay, encrypted peer-to-peer, and an always-on Sovereign node. Propose measures for privacy, reachability, availability, and cost; numeric results and chosen path: NO_DATA.
 
+
+
+**UI and page-load gates:** keyboard access, 44 px targets, alt text, no overlap, reduced motion, and zero external requests on page load.
+
 ## Receipt
 
-Source: study#60 A11. Three options retained without selection. Comparison measures proposed; no remote-node access or result claimed.
+source=study#60/A11; card_bytes=604; receipt_bytes=108; target_changes=0; verifier_passes=2; state=proposal
