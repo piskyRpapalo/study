@@ -65,3 +65,8 @@ Anything deeper is NO_DATA, cause: beyond declared depth. -->
 - `DISAGREEMENTS.md` — the law of the disagreements-log (the RC-* register lives once, in preceptoros-web)
 
 **Status:** v1 published 2026-10-18 under the Sovereign's sign-off; `10-collisions.md`, `11-repos.md` and `12-schema.md` added the same day under further sign-offs. `DISAGREEMENTS.md` (doctrine) proposed 2026-10-19, awaiting the Sovereign's sign-off. The silicon never signs.
+
+
+## Licence
+
+Code: Apache-2.0 — see `LICENSE`. Prose: CC BY-SA 4.0 — see `LICENSE-PROSE`.
