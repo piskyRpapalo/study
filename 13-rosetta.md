@@ -167,3 +167,16 @@ Un techo por ámbito, escrito una vez — ver proposals/ROSETTA_ENMIENDA_TECHOS_
 A: sin testigo de borde, solo doctrina · B: eslabón del registro en revisión final · C: cliente vivo, receptor NO construido · D: LIVE/STALE/NO_DATA del metal cerrándose · E: excepción navegador = PROPUESTA esperando FIRMO.
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Amendment 2026-10-27 — the node names of the fleet (the Sovereign's decree)
+
+The Sovereign decreed (chat, 2026-10-27): the node-deploy names of the fleet are explicit here. This refines the private-names rule above: public surfaces say Node Hexelion, never the vendor brand.
+
+- **Nodo.0.Hexelion** — the app deploy of node 0 on the web: it creates Atlantis (the widest territory, the main lab, the strongest AIs). SIGNED (decree 2026-10-27).
+- **Doggee (nodo 1, the Risen)** — node 1's deploy: fewer buildings, more violent, a small LoRA orchestrator. SIGNED.
+- **Awaiting deploy names** — Jetson Orin Nano · Orange Pi · iPhone 8 · Raspberry Pi: NO_DATA (cause: deploy_not_yet_named).
+- **ESP32** — future lite node: a lite version of the app. IDEA.
+
+Registered by the Mesa; the public faces of theGame already carry Node Hexelion and Doggee as deliberate product names (09-lore). Receipt in buzon 19.
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
