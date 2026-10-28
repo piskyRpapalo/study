@@ -33,3 +33,13 @@ Source: signed Study issue #3 (2026-10-20). This implementation clause remains a
 - A projection contains only declared fields. Missing or invalid source data is `NO_DATA` with a cause; no field is guessed or filled with a default.
 - The compact UTF-8 payload is strictly below 1,024 bytes. At or above the limit, reject the whole payload with a cause; never truncate it.
 - A matching visual, mathematical, and audible state is a separate measured claim. Until paired frames and hashes pass the same gate, isomorphic parity remains `NO_DATA`.
+
+## Amendment · ODD routing · 2026-10-28
+
+Source: the Sovereign's ODD decree (2026-10-28, transcribed in the Book), inspired by Gentle Shell's Organic Driven Development. The workflow is adopted, not the harness: the Desk, the gates, and the Book keep their roles.
+
+- **ODD (organic driven development)** — Explore → implement → proportionate checks is the standing workflow for substantial authorized work. Small, understood work creates no durable task artifact; investigation and proposal-only work stay read-only.
+- **feature document** — Substantial work is tracked in `odd/tasks/<feature-name>.md`: objective, checklist with stable IDs, verification evidence, next step. One feature, one document, one name — no parallel plans, no task noise.
+- **work-unit commits** — Commits land as reviewable work units (about 400 authored lines, advisory, never a cap). An oversized forecast routes through a feature-branch chain; in unattended mode the chain is chosen and recorded, never waited on.
+- **the standing-signature rule** — A step that would need a signature never halts the work: the standing signature is searched for in the corpus first (the signed Book, ideas, examples, and jewels count as signed); the modification is recorded and the work continues. A fresh FIRMO gates the merge of the exact head — never the building.
+- **delivery gates unchanged** — ODD unblocks the work, not the merge: checks that can go red, the receipt, HITL by hash, and the Sovereign's FIRMO on code, seal, and infrastructure heads are never skipped.
