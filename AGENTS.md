@@ -12,7 +12,8 @@ This is the single canonical instruction set for agents working in the study. To
 - Preserve human review and zero data exfiltration. Do not send model inputs, outputs, or node state to an external service as part of a benchmark.
 - Read the scoped technical ceilings in `02-legislation.md`; do not restate their numeric values here.
 - Yardstick: there is no code suite in this repository. The gate is `python3 ../lab/bin/verify_llms_tree.py --root .` run from the lab clone, plus a read of the changed file. The local contract requires two runs for a piece. Remote CI is not configured in this repository; report that explicitly and never describe local checks as remote CI.
-- Read `README.md` for repository scope and `02-legislation.md` for the laws. If either is stale or does not contain a value, report `NO_DATA` with cause rather than copying an old number as live.
+- Read `README.md` for repository scope and `02-legislation.md` for the laws. If either is st
+ale or does not contain a value, report `NO_DATA` with cause rather than copying an old number as live.
 - History is append-only. Never rewrite a past law; propose an amendment as a new file or a new section that cites the one it amends.
 
 ## Claude Code and Codex
@@ -22,3 +23,11 @@ This is the single canonical instruction set for agents working in the study. To
 ## AI navigation
 
 `llms.txt` is the machine-readable entry point; `ai-index.json` (schema `preceptoros.ai-index/1`) is the measured index with per-file word counts, SHA-256, one-liners, decoys, and canaries. Agents read the index before opening files: it declares each file's depth, word budget, and freshness. Citing a decoy path or reading a canary is a red-team signal, not a mistake to hide.
+
+
+## ODD — the workflow law (amendment · 2026-10-28 · amends the workflow sections of this file)
+
+- ODD is law: explore, implement, check — every piece of work. One feature per feature document (odd/tasks/<feature>.md), one work unit per commit, one slice per PR.
+- The signature gates the MERGE, never the BUILDING. Work never halts for a signature: register the question in the feature document's log, take the lawful default (NO_DATA with cause, honest measurement), and continue.
+- Docs-only PRs merge under the standing ODD FIRMO, cited in the receipt. Pieces of value are signed by the Sovereign per piece and per exact head; batches expire.
+- The Desk's status board (the two readers' harness) lives in odd/STATUS.md of the web repository; read it at the start of a watch cycle.
