@@ -11,7 +11,7 @@
 - **ruling** *(ES: dirimencia)* — A resolved issue that fixes doctrine (e.g. #40: no HLC this phase; #42: score finite-or-null, EPSILON declared). The first source of duplicates is re-proposing what a ruling already fixed.
 - **commission** *(ES: encargo)* — A paste-ready work order with its law in the body: new context, what is asked, the fences (what is NOT touched), and the yardstick.
 - **receipt** *(ES: recibo)* — The return message: form only — numbers, dates, shapes. Never keys, never private names.
-- **propose-only** *(ES: proponer sin ejecutar)* — Silicon writes and proposes; it never merges, never signs, never pushes.
+- **propose-only** *(ES: proponer sin ejecutar)* — Silicon writes and proposes; it never signs. Merge and push only under the Sovereign's delegation; the signature gates the merge, never the build (ODD, 2026-10-28).
 - **the Comando** *(ES: el Comando)* — The single GitHub lane: the issues-repo where commissions and receipts land; mirror of what the app hosts in its own database. One channel, so no preceptor guesses where anything lives.
 - **Customs** *(ES: la aduana)* — The gate where a PR waits for the Desk's measurement before any sign-off. The deployed Worker verifies signed credentials and writes only hashes.
 - **the lanes** — the Arm (web-coder lane: writes, measures, receipts) · the Descent (the game's visual language) · the Codex lane / astra (the app side, tier-2). Lanes never sign.
