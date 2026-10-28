@@ -43,3 +43,10 @@ Source: the Sovereign's ODD decree (2026-10-28, transcribed in the Book), inspir
 - **work-unit commits** — Commits land as reviewable work units (about 400 authored lines, advisory, never a cap). An oversized forecast routes through a feature-branch chain; in unattended mode the chain is chosen and recorded, never waited on.
 - **the standing-signature rule** — A step that would need a signature never halts the work: the standing signature is searched for in the corpus first (the signed Book, ideas, examples, and jewels count as signed); the modification is recorded and the work continues. A fresh FIRMO gates the merge of the exact head — never the building.
 - **delivery gates unchanged** — ODD unblocks the work, not the merge: checks that can go red, the receipt, HITL by hash, and the Sovereign's FIRMO on code, seal, and infrastructure heads are never skipped.
+
+
+## Amendment · methodology relief · 2026-10-28
+
+Source: the Sovereign's decree (2026-10-28): preceptors may use their own judgment (the "optimizaciones" clause) to improve the methodology on risk-free work — the goal is to liberate the Sovereign's time.
+
+- **methodology relief** — When a risk-free task is made needlessly hard by an old law, the preceptor reviews that law and proposes the change with the delivery. The proposal is part of the delivery, never a blocker. Delivery gates on code, seal, and infrastructure heads are never skipped.
