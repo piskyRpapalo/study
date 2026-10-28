@@ -50,3 +50,9 @@ Source: the Sovereign's ODD decree (2026-10-28, transcribed in the Book), inspir
 Source: the Sovereign's decree (2026-10-28): preceptors may use their own judgment (the "optimizaciones" clause) to improve the methodology on risk-free work — the goal is to liberate the Sovereign's time.
 
 - **methodology relief** — When a risk-free task is made needlessly hard by an old law, the preceptor reviews that law and proposes the change with the delivery. The proposal is part of the delivery, never a blocker. Delivery gates on code, seal, and infrastructure heads are never skipped.
+
+## Amendment · carbon fidelity · 2026-10-28
+
+Source: the Sovereign's decree (2026-10-28, the isometric-colony feature doc).
+
+- **carbon fidelity** — A render is right when a human eye reads it at a glance and a small local model can parse the same state. One state, many renders (D4/D5): the eye, the ear, and the small model all read the same state, and the render serves the human reader first.
