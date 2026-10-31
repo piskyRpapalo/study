@@ -180,3 +180,15 @@ The Sovereign decreed (chat, 2026-10-27): the node-deploy names of the fleet are
 Registered by the Mesa; the public faces of theGame already carry Node Hexelion and Doggee as deliberate product names (09-lore). Receipt in buzon 19.
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Amendment 2026-10-31 — the oven (the Sovereign's renaming decree)
+
+The Sovereign decreed (chat, 2026-10-31): the Spanish word «horno» is ELIMINATED. Official names are English only (Renaming Law). The GPU node's role reads **the oven**; its device name stays private under the scrub law (public surfaces carry the machine star). The decree also fixes the rack figures to kill a confusion: the comms machine (the Rack, a beelink) carries **64 GB of RAM — RAM, not VRAM** (iGPU, no dedicated memory); the oven — the primary device — carries **128 GB RAM, AMD Ryzen AI Max 395, Radeon 8060S, and its VRAM carve ACTIVE at 96 GB since 2026-10-30 (no longer the 64 GB factory carve)**. Full specs live in the private repos.
+
+| The Sovereign says | Read it as | Status |
+| --- | --- | --- |
+| horno | the oven (role; the device name stays private under the scrub law) | SIGNED (decree 2026-10-31, registered by the Mesa) |
+
+History stays as history (append-only): an old folio that says «horno» is translated on reading, never rewritten. Receipt lane: buzon 19.
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
