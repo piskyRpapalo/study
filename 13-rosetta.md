@@ -206,3 +206,15 @@ The pending acta of «How to read a seal» is SERVED — this file said «Pendin
 History stays as history (append-only): an old folio that says «portada» is translated on reading, never rewritten. Receipt lane: buzon 30.
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Amendment 2026-11-01 — provenance of three external sources (ideas only, zero lines of code)
+
+Status: RENAME-SUGGESTED / provenance record. The Sovereign's manifesto of 2026-11-01 («motor nativo, arena de benchmarks y mercado A2A») adapts three external projects. Each licence was read in the source repository (via `gh api repos/<repo>/license`) on 2026-11-01; the quoted line is the licence header as served. What is taken is an **idea**, rewritten in the house's own modules; no file, line or dependency of theirs enters any house repository.
+
+| ref | source (head read) | licence line quoted | taken (as idea) | not taken |
+| --- | --- | --- | --- | --- |
+| R1 | github.com/Station-Sciences/bot-crossing (`9f7dc6536aac`) | «MIT License · Permission is hereby granted, free of charge, to any person obtaining a copy» | each agent thread is a body that walks to its parcel and shows `?` when it needs the human; one visual state per bot; camera anchored to the cursor | Three.js, Vite, `.glb`, any build step |
+| R2 | github.com/OrchestratorInc/agent-orchestrator (`9785047f8172`; formerly ComposioHQ) | «Apache License · Version 2.0, January 2004» | work travels in lanes (Working → Needs you → Ready to merge); self-repair on red tests before asking the human; machine-readable schemas first | the Go daemon, telemetry, foreign cloud |
+| R3 | github.com/mvschwarz/openrig (`b25dd19a5a81`) | «Apache License · Version 2.0, January 2004» | the Seat: a fixed address and role on the map while the model behind it may rotate; SHA-256 audit of shared bundles (rewritten as bubble packets); seat lock while the human acts; preimage → verify → apply migration with receipt | Node global deps, tmux, unattended execution («danger-full-access» / YOLO) |
+
+House mapping (canonical paths): the Seat is an `atlas.lugar/1` place on the single map (preceptoros-web `odd/tasks/lugares-del-rack.md`); the bundle audit is the per-chunk SHA-256 manifest of `public/models/<id>/manifest.json` and `public/map/carta.json`; the human lock is the HITL `?` (`public/game/hitl_walkers.js`). The A2A market with relay/P2P stays **design**: relays/WebRTC need a signature first (preceptoros-web CLAUDE.md «Qué busca firma antes de construirse»).
