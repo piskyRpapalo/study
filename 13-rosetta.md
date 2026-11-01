@@ -12,7 +12,7 @@ The Rosetta does not coin names and does not replace THE LEXICON (docs/lexicon.m
 2. A term has one of the four statuses of 12-schema.md. Read the status before trusting the name.
 3. What is not measured is NO_DATA with cause. Never invent a term, a number, or a source.
 4. History is append-only: an old folio speaks with the names of its date. Translate it; never rewrite it.
-5. Silicon proposes, carbon signs: the FIRMO is the Sovereign's, and only the Sovereign's.
+5. Silicon proposes, carbon signs: the FIRMO is the Sovereign's. Under the signed delegation of 2026-11-01 (roadmap commit 9d7c64c; HITL.md), the Mesa may record FIRMA on items that do not contradict the map; anything else is the Sovereign's alone.
 
 ## The governance key — what the Sovereign says, what it means
 
