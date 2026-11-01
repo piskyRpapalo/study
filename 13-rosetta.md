@@ -192,3 +192,17 @@ The Sovereign decreed (chat, 2026-10-31): the Spanish word «horno» is ELIMINAT
 History stays as history (append-only): an old folio that says «horno» is translated on reading, never rewritten. Receipt lane: buzon 19.
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Amendment 2026-11-01 — the front door signed (the Sovereign's renaming decree)
+
+The Sovereign decreed (chat, 2026-11-01): «usa rosetta y renombramiento adelante» — proceed with the Rosetta and the renaming. Under that decree, the signed delegation of 2026-11-01 (roadmap commit 9d7c64c; HITL.md) and the coverage «firmo todo», the Mesa records:
+
+| The Sovereign says | Read it as | Status |
+| --- | --- | --- |
+| portada, la puerta principal | the front door | **SIGNED** (decree 2026-11-01, registered by the Mesa; acta buzon 30 ·6555400000; the migration in the metal follows the inventory of p0x pull request 56; web seal G3) |
+
+The pending acta of «How to read a seal» is SERVED — this file said «Pending acta»: the two decisions of the Sovereign (chat, 2026-10-23, Grupo A) — **the Eye stays idea-only in GitHub; the dormant nexo wakes only under its condition** — are registered in the acta lane (buzon 30, ·6555400000, 2026-11-01).
+
+History stays as history (append-only): an old folio that says «portada» is translated on reading, never rewritten. Receipt lane: buzon 30.
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
