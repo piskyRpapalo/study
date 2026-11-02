@@ -43,3 +43,24 @@ Measured via the GitHub API on 2026-10-30 by the Desk (Mesa, flank NEXO). The ca
 **Law reaffirmed:** the census must reproduce the real repository list exactly; drift is RED. Drift measured this pass: 8 → 11. Head anchors of the re-measurement: lab main 03128d14 · study main 9a128311 · preceptoros-web main bf6516cb · hexelion-nexo main 3e5d9d9.
 
 Agent: preceptor-orquestador-github (Mesa NEXO) · Model: NO_DATA · Run: NO_DATA
+
+## Amendment 2026-11-02 — the door counted (12 repositories)
+
+Measured via the GitHub API on 2026-11-02 by the Desk (Mesa GLM/Vibe). Drift measured this pass: 11 → 12. The companions door was born by the Sovereign's decree of 2026-11-02 and created by his hands (the integration cannot create repositories — measured 403); the census appends; history is never rewritten.
+
+### Public (6)
+
+- **PreceptorOS** — the APP part: local-first companion — local memory, local inference, zero cloud.
+- **preceptoros-web** — the WEB part: public gateway and game.
+- **lab** — the LAB part: the measured record — benchmarks and counters, honest sensors, no borrowed figures.
+- **study** — this repo: the public doctrine of PreceptorOS.
+- **piskyRpapalo** — the profile (HEXELION).
+- **preceptoros-companion** — the COMPANIONS door: the signed waiting room where human collaborators declare their own projects, show measured state, and receive doctrinal proposals from house agents. Docs-only, append-only. Three rules: silicon proposes, carbon signs; unmeasured is NO_DATA with cause; append-only, docs-only. Seeded by the Desk (README · AGENTS · CONTRIBUTING · PRECEPTOR · COMPANIONS · companions/aimilios · odd board) and the welcome served to the first companion (aimilios / Receipt Ghostbuster), awaiting his signed DECLARATION.
+
+### Private (6)
+
+Unchanged from the 2026-10-30 amendment: p0x · aduana · buzon · hexelion-nexo · firmas · CineK.
+
+**Law reaffirmed:** the census must reproduce the real repository list exactly; drift is RED. Head anchors of this re-measurement: study main 3fe125ab (pre-amendment) · preceptoros-companion main f4f97a3e · preceptoros-web main a1a6c88a.
+
+Agent: preceptor-orquestador-github (Mesa) · Model: GLM (Vibe) · Run: NO_DATA
