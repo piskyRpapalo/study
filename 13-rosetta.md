@@ -218,3 +218,9 @@ Status: RENAME-SUGGESTED / provenance record. The Sovereign's manifesto of 2026-
 | R3 | github.com/mvschwarz/openrig (`b25dd19a5a81`) | «Apache License · Version 2.0, January 2004» | the Seat: a fixed address and role on the map while the model behind it may rotate; SHA-256 audit of shared bundles (rewritten as bubble packets); seat lock while the human acts; preimage → verify → apply migration with receipt | Node global deps, tmux, unattended execution («danger-full-access» / YOLO) |
 
 House mapping (canonical paths): the Seat is an `atlas.lugar/1` place on the single map (preceptoros-web `odd/tasks/lugares-del-rack.md`); the bundle audit is the per-chunk SHA-256 manifest of `public/models/<id>/manifest.json` and `public/map/carta.json`; the human lock is the HITL `?` (`public/game/hitl_walkers.js`). The A2A market with relay/P2P stays **design**: relays/WebRTC need a signature first (preceptoros-web CLAUDE.md «Qué busca firma antes de construirse»).
+
+## Amendment 2026-11-03 — the vocabulary house (the Sovereign's decree)
+
+The Sovereign decreed (chat, 2026-11-03): all vocabulary pieces live in the Babel Registry (piskyRpapalo/babel) as their single house; study remains the house of study. This Rosetta keeps the translator law and points; its vocabulary tables now live once in the registry (registry/reading-directions.md, transcribed verbatim). THE LEXICON (preceptoros-web docs/lexicon.md) froze as the registry's seed the same date. The Rosetta is coined there once (registry/coins-2026-11-03.md); this file's RENAME-SUGGESTED status reads as coined from this amendment. When this file and the registry differ, the registry wins.
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
