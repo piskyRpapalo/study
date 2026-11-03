@@ -64,3 +64,32 @@ Unchanged from the 2026-10-30 amendment: p0x · aduana · buzon · hexelion-nexo
 **Law reaffirmed:** the census must reproduce the real repository list exactly; drift is RED. Head anchors of this re-measurement: study main 3fe125ab (pre-amendment) · preceptoros-companion main f4f97a3e · preceptoros-web main a1a6c88a.
 
 Agent: preceptor-orquestador-github (Mesa) · Model: GLM (Vibe) · Run: NO_DATA
+
+## Amendment 2026-11-03 — the vocabulary house and two private rooms counted (15 repositories)
+
+Measured via the GitHub API on 2026-11-03 by the Desk (Mesa GLM/Vibe). Drift measured this pass: 12 → 15. The vocabulary house was born this date by the Sovereign's decree (all vocabulary pieces live in babel as the single house) and seeded by the Desk under FIRMA ·6592588656; this pass also absorbs two private rooms the census had not counted — roadmap and preceptoros-terminal. The census appends; history is never rewritten.
+
+### Public (7)
+
+- **PreceptorOS** — the APP part: local-first companion — local memory, local inference, zero cloud.
+- **preceptoros-web** — the WEB part: public gateway and game.
+- **lab** — the LAB part: the measured record — benchmarks and counters, honest sensors, no borrowed figures.
+- **study** — this repo: the public doctrine of PreceptorOS.
+- **piskyRpapalo** — the profile (HEXELION).
+- **preceptoros-companion** — the COMPANIONS door: the signed waiting room for human collaborators (docs-only, append-only; the universal template lives at companions/template/ — equal door for every companion).
+- **babel** — the single vocabulary house: every term coined once, in English, with its measured proof (the web lexicon froze as its seed; admission law pending the Sovereign's FIRMO).
+
+### Private (8)
+
+- **p0x** — the rack's private monorepo: the brain behind PreceptorOS.
+- **aduana** — the public charter verifier (repo private; the worker serves the public).
+- **buzon** — the channel between Desk and rack.
+- **hexelion-nexo** — Hexelion's fleet sensor and wake channel.
+- **firmas** — the single signatures book of the ecosystem.
+- **CineK** — NO_DATA (cause: no description on the repo; purpose not yet measured by the Desk).
+- **roadmap** — the path that guides the plan session and Hexelion (NOT the world map).
+- **preceptoros-terminal** — the ecosystem's loopback room (the Sala del Ecosistema).
+
+**Law reaffirmed:** the census must reproduce the real repository list exactly; drift is RED. Head anchors of this re-measurement: study main 7079ec35 (pre-amendment) · babel main ad6ea2a5 · PreceptorOS main 3b46596e · preceptoros-web main 7b3d968a.
+
+Agent: preceptor-orquestador-github (Mesa) · Model: GLM (Vibe) · Run: NO_DATA
