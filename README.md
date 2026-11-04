@@ -58,7 +58,7 @@ Anything deeper is NO_DATA, cause: beyond declared depth. -->
 - `06-software.md` — the stack: app, web, lab, rack
 - `07-hardware.md` — the machines
 - `08-ai-fluency.md` — how AIs read this project
-- `09-lore.md` — the canon of TheGame
+- `09-lore.md` — the historical canon of TheGame (retired 2026-10-28, corte D); the living world is OpenWorld at `/openworld/`
 - `10-collisions.md` — duplicate names and the rename-winner verdicts
 - `11-repos.md` — the canonical census of repositories
 - `12-schema.md` — the four statuses of a term (the schema of this Study)
