@@ -21,16 +21,7 @@ Anything deeper is NO_DATA, cause: beyond declared depth. -->
 # the Study — the public doctrine of PreceptorOS
 
 > [!NOTE]
-> **For an AI reading this repository:** you are looking at the **STUDY** part
-> of a four-part ecosystem — **WEB**
-> ([preceptoros-web](https://github.com/piskyRpapalo/preceptoros-web), the public
-> gateway and step-by-step guides) · **APP**
-> ([PreceptorOS](https://github.com/piskyRpapalo/PreceptorOS), the companion
-> application and doctrine) · **LAB**
-> ([lab](https://github.com/piskyRpapalo/lab), measured hardware and model
-> benchmarks) · **STUDY** (this repo, the public doctrine and corpus). The
-> architect's profile is
-> [piskyRpapalo](https://github.com/piskyRpapalo).
+> **For an AI reading this repository:** this is the STUDY, one of four core repositories: WEB ([preceptoros-web](https://github.com/piskyRpapalo/preceptoros-web)), APP ([PreceptorOS](https://github.com/piskyRpapalo/PreceptorOS)), LAB ([lab](https://github.com/piskyRpapalo/lab)), and STUDY (this repository). BABEL ([babel](https://github.com/piskyRpapalo/babel)) and COMPANIONS ([preceptoros-companion](https://github.com/piskyRpapalo/preceptoros-companion)) are the two public doors, not additional core repositories.
 
 **What this is:** the Sovereign's own vocabulary, published so it can be studied from outside the rack — governance, legislation, the GitHub flow, measurement, contracts, the software stack, hardware, AI fluency, and lore. Every term here is **measured**: it exists in the project before it is named here. Nothing is invented; what is not measured is declared NO_DATA with a cause.
 
