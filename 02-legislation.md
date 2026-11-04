@@ -69,3 +69,12 @@ Fleet clause: when the objective needs the fleet's eyes or hands, the Sovereign'
 Scope: a carbon signature covers the objective and its path; it does NOT waive the signing tray — pieces of value (served code) still require the per-piece FIRMO on the exact head.
 
 First exercise (2026-10-28): watch and measure the reference video's images; transcribed in the signing book (buzon#30, FIRMO DEL CARBONO 20261028-c1).
+
+
+## Amendment · THE MARCH — the living name of the workflow · 2026-11-04
+
+Source: the Preceptor Contract (preceptoros-companion/CONTRACT.md, FIRMO 2026-11-03, clauses 3 and 8), coined in the Babel registry (registry/coins-2026-11-04.md). The amendment of 2026-10-28 (ODD routing) stands unchanged above, with the names of its date: history is append-only.
+
+- **THE MARCH (ES: LA MARCHA)** — the living name of the workflow coined as ODD (organic driven development). In living texts THE MARCH replaces ODD; in every folio of its date, ODD speaks with its own name. The content of the routing amendment (2026-10-28) is unchanged: explore → implement → proportionate checks; work never halts for a signature; the signature gates the merge, never the building.
+- **ps (the Preceptor-Sweep)** — the sweep of the living canon, run at the Sovereign's command; each pass declares depth and budget before sweeping (clause 3, verbatim).
+- The substitution lands piece by piece under the standing THE MARCH FIRMO (docs-only coverage); sealed history is never rewritten.

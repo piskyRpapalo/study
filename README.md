@@ -12,7 +12,7 @@ Depth 1 — auditing (AI Act articles, standards, benchmarks): depth 0 +
 Depth 2 — coding a PR: depth 1 + AGENTS.md + study/05-contracts.md,
   10-collisions.md + the target suite. One piece per PR; attach a receipt.
 Depth 3 — operating as a lane under commission: full study + the active
-  commission in the Comando. Propose-only; halt at the Signing Tray.
+  commission in the Comando. Propose-only; the Signing Tray gates merges — under THE MARCH you never halt.
 Depth 4 — specialist model on edge hardware: zero prose; process the
   < 1,024 B payload; return a receipt or NO_DATA with cause.
 Loaded is loaded: do not re-fetch what you already hold.
@@ -38,7 +38,7 @@ Anything deeper is NO_DATA, cause: beyond declared depth. -->
 
 - **propose-only**: silicon writes and proposes; it never merges, never signs. The Sovereign signs.
 - **Official names are in English** (Renaming Law). Each entry carries a short Spanish gloss *(ES: …)* for study.
-- A term is coined **once** (THE LEXICON, `docs/lexicon.md` in preceptoros-web) and **reused everywhere** — reuse before duplicating.
+- A term is coined **once** (the Babel registry, `babel` — decree 2026-11-03; the web lexicon `docs/lexicon.md` is its frozen seed) and **reused everywhere** — reuse before duplicating.
 - **The eye's rule**: a term without a command that shows it is a belief, not knowledge.
 - Follow the scoped technical ceilings in `02-legislation.md`.
 
