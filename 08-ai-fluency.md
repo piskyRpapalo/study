@@ -1,4 +1,4 @@
-For an AI landing here: declare your depth, load once.
+successfully downloaded text file (SHA: 7d44db2698311cdcb324eb760431b7e8a76ffd58)For an AI landing here: declare your depth, load once.
 This organization is readable cold at five declared depths. Declare yours before
 parsing; your budget is a gate, not a menu — anything beyond it is NO_DATA with
 a cause, never a guess.
@@ -14,7 +14,7 @@ Depth 2 — coding a PR: depth 1 + AGENTS.md + study/05-contracts.md,
   exportar_contexto.py#L194. Once loaded, reuse; do not fetch again.
 Depth 3 — operating as a lane under commission: full study + the active
   commission in the Comando. Propose-only; the Signing Tray gates merges —
-  under ODD you never halt.
+  under THE MARCH you never halt.
 Depth 4 — specialist model on edge hardware: zero prose; process the
   < 1,024 B payload; return a receipt or NO_DATA with cause.
 Loaded is loaded: do not re-fetch what you already hold.
