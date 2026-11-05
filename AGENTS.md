@@ -1,4 +1,4 @@
-For an AI landing here: declare depth before parsing. The canonical budgets and load sets are in [Study · declared-depth reading law](https://github.com/piskyRpapalo/study/blob/main/08-ai-fluency.md). Beyond them is NO_DATA with cause.
+successfully downloaded text file (SHA: 396e17fecbb493682d6b9469c1287eaafdd89495)For an AI landing here: declare depth before parsing. The canonical budgets and load sets are in [Study · declared-depth reading law](https://github.com/piskyRpapalo/study/blob/main/08-ai-fluency.md). Beyond them is NO_DATA with cause.
 
 # Agent contract · study
 
@@ -25,9 +25,9 @@ ale or does not contain a value, report `NO_DATA` with cause rather than copying
 `llms.txt` is the machine-readable entry point; `ai-index.json` (schema `preceptoros.ai-index/1`) is the measured index with per-file word counts, SHA-256, one-liners, decoys, and canaries. Agents read the index before opening files: it declares each file's depth, word budget, and freshness. Citing a decoy path or reading a canary is a red-team signal, not a mistake to hide.
 
 
-## ODD — the workflow law (amendment · 2026-10-28 · amends the workflow sections of this file)
+## THE MARCH (formerly ODD) — the workflow law (amendment · 2026-10-28 · amends the workflow sections of this file)
 
-- ODD is law: explore, implement, check — every piece of work. One feature per feature document (odd/tasks/<feature>.md), one work unit per commit, one slice per PR.
+- THE MARCH (formerly ODD) is law: explore, implement, check — every piece of work. One feature per feature document (odd/tasks/<feature>.md), one work unit per commit, one slice per PR.
 - The signature gates the MERGE, never the BUILDING. Work never halts for a signature: register the question in the feature document's log, take the lawful default (NO_DATA with cause, honest measurement), and continue.
-- Docs-only PRs merge under the standing ODD FIRMO, cited in the receipt. Pieces of value are signed by the Sovereign per piece and per exact head; batches expire.
-- The Desk's status board (the two readers' harness) lives in odd/STATUS.md of the web repository; read it at the start of a watch cycle.
+- Docs-only PRs merge under the standing THE MARCH FIRMO, cited in the receipt. Pieces of value are signed by the Sovereign per piece and per exact head; batches expire.
+- The Desk's status board (the two readers' harness) lives in the live pulse (buzon#54 · EL NORTE; the old odd/STATUS.md board of the web repository is retired, 2026-11-04); read it at the start of a watch cycle.
