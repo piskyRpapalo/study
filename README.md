@@ -61,3 +61,8 @@ Anything deeper is NO_DATA, cause: beyond declared depth. -->
 ## Licence
 
 Code: Apache-2.0 — see `LICENSE`. Prose: CC BY-SA 4.0 — see `LICENSE-PROSE`.
+
+
+## Public and private — what a contributor can reach
+
+Measured 2026-11-06: this organization keeps private repositories — the house's own table (governance, the signature ledger, the mailbox, the rack, the living map). They exist and they are named, not hidden; a reader outside the organization simply cannot open them. **Nothing on the public side requires reading them.** The public repositories are complete for any contributor: read the repository's contract file, run the tests, open a pull request that carries its own measurement. Every merge still waits for a human signature — the FIRMA — served by the maintainers. You never need access to a private repository to advance.
