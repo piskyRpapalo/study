@@ -10,7 +10,7 @@
 | Afirmación | Veredicto | Medida |
 |---|---|---|
 | `aiact_art14_node_decide.py` existe y declara HITL | ✓ | 4,056 chars; `atlas.accion/1`; `firma: null`; "el nodo propone; firmar es de la persona (AI Act art. 14)" |
-| `aiact_art14_game_policy.json` prohibe las 4 prácticas | ✓ (en español) | "acreditar por tiempo pasivo", "perfil psicologico por telemetria", "gacha casino: reroll pagado o urgencia falsa", "huella del aparato como identidad" |
+| `aiact_art14_game_policy.json` prohíbe las 4 prácticas | ✓ (en español) | "acreditar por tiempo pasivo", "perfil psicologico por telemetria", "gacha casino: reroll pagado o urgencia falsa", "huella del aparato como identidad" |
 | `clasificador_cuaternario.py` con 4 verdictos | ✓ (etiquetas SI/NO/CUANDO) | `SI/NO/CUANDO/NO_DATA`, NO_DATA con causa, techo 1,024 B |
 | "SCRUB en `frontera.py`" | ✗ CORREGIDO | `frontera.py` es la jaula Wasmtime (fuel, 64 MiB); cero ocurrencias de "SCRUB". La ley vive en `babel/registry/governance.md`; el motor es `guardrails.py` (`redactar_salida`, fail-closed, "clase y cantidad, jamás el texto") |
 | `study/04-measurement.md`: "red before green" + "gates n=2" | ✓ | Ambas frases presentes en HEAD |
@@ -41,7 +41,7 @@
 - ✓ Aimilios94: PR #3 de `preceptoros-companion` MERGED 2026-11-03T20:21:52Z, título "HITL". Confirmado por API.
 - NO_DATA Suraindran Kamalakanan: falta consentimiento explícito para atribución pública.
 
-## §6 · Afirmações técnicas (1/3 limpias)
+## §6 · Afirmaciones técnicas (1/3 limpias)
 
 - ✗ "Every receipt is <1,024 B": 20 de 48 JSON en `lab/benchmarks` superan 1,024 B. Matiz declarado: el techo 1,024 B gobierna el carril de recibos de buzon, no la evidencia de benchmarks.
 - ✗ "Package <16,384 B": 1 violación, `study/13-rosetta.md` = 21,860 B (lab: 0/98; babel: 0).
