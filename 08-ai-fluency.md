@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: 7d44db2698311cdcb324eb760431b7e8a76ffd58)For an AI landing here: declare your depth, load once.
+For an AI landing here: declare your depth, load once.
 This organization is readable cold at five declared depths. Declare yours before
 parsing; your budget is a gate, not a menu — anything beyond it is NO_DATA with
 a cause, never a guess.
