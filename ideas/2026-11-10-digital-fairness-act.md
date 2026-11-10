@@ -31,7 +31,9 @@ This is a **measurement proposal**, not a legal compliance claim or a deployed D
 | DFA-B6 · time-to-human | A person can take control promptly after an explicit request. | HITL interfaces to inventory | NO_DATA — detailed source not yet received. |
 | DFA-B7 · benchmark integrity | Deliberately faulty benchmarks fail visibly. | Existing test harnesses | NO_DATA — detailed source not yet received. |
 
-**Rack observation (2026-11-10):** files for H9, red-team, `study_spec_runner.py`, `measure_yardstick.py`, quaternary classifier and frontier were located. The H9 README records negative results and a persistent failure. The red-team README declares independent review NO_DATA despite retained result files. Presence does not imply passing measurements.
+**Forensic rack audit (2026-11-10; local trees, not remote HEAD parity):** APP `f1227e7`, Study `820749b`, Babel `547dbcc`, LAB `0501ff3`. `aiact_art14_game_policy.json` contains four Spanish-language prohibitions; `clasificador_cuaternario.py` uses `SI/NO/CUANDO/NO_DATA`, not literal English labels. `frontera.py` is a Wasmtime sandbox and has no verified SCRUB function. Study `04-measurement.md` states red-before-green and gates n=2; `13-adversarial.md` is absent locally. Babel documents `preceptoros.acho/1`, eight forbidden terms and SCRUB doctrine. `rack_instantanea.py` and `rack_instantanea.service` were not found. H9 actual directory is `h9-readability-20261016`, not `20261021`. Some benchmark JSON files exceed 1,024 B (a Crucible JSON is 21,621 B); Study `13-rosetta.md` is 21,860 B, above 16,384 B. These findings refute universal file-size claims, but do not establish whether a narrower receipt-frame contract is respected. Ollama service was active, yet `ollama ps` was denied by agent policy; resident model claims remain NO_DATA. Private original LoRAtelier folders were permission denied, while historical red-team JSON files were accessible in LAB. `bench_fluency` schema exists with failing cases. No test runs were performed.
+
+**Previous rack observation (2026-11-10):** files for H9, red-team, `study_spec_runner.py`, `measure_yardstick.py`, quaternary classifier and frontier were located. The H9 README records negative results and a persistent failure. The red-team README declares independent review NO_DATA despite retained result files. Presence does not imply passing measurements.
 
 ## Boundary and next piece
 
@@ -39,4 +41,4 @@ Public mission assignment and status belong **only** in the Public Mesa catalog.
 
 Next: compare existing instrumentation against each benchmark; run two independent measurements; record failures and causes; update only after the complete technical source and official EU documents can be inspected. No personal information, private infrastructure, prompts or model inputs may cross into public receipts.
 
-**Signature:** REQUIERE_FIRMA. **Test status:** NO_DATA — local two-pass Study verifier not executed for this draft.
+**HITL:** Sovereign authorized PR publication and forensic corrections in chat on 2026-11-10. This is not an independent benchmark pass, deployment authorization, or consent for third-party attribution. **Test status:** NO_DATA — local two-pass Study verifier not executed for this draft.
