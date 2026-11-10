@@ -42,3 +42,9 @@ Public mission assignment and status belong **only** in the Public Mesa catalog.
 Next: compare existing instrumentation against each benchmark; run two independent measurements; record failures and causes; update only after the complete technical source and official EU documents can be inspected. No personal information, private infrastructure, prompts or model inputs may cross into public receipts.
 
 **HITL:** Sovereign authorized PR publication and forensic corrections in chat on 2026-11-10. This is not an independent benchmark pass, deployment authorization, or consent for third-party attribution. **Test status:** NO_DATA — local two-pass Study verifier not executed for this draft.
+
+## Rack recheck · 2026-11-10 · HITL authorized
+
+A read-only SentinelX Python probe inspected the live rack. The APP game policy JSON has **4** prohibited entries and all four intended categories in Spanish: passive-time accreditation, psychological profiling, paid rerolls, and device fingerprint as identity. This is documentary evidence, **not proof of enforcement**. Of **48** JSON files under LAB benchmarks, **30** exceed **1,024 bytes**: the universal file-size claim is refuted. `ollama ps` returned exit code **0** with only the table header and **no loaded model rows**: none of the four claimed resident models was loaded at observation time. This does not establish whether models are installed on disk. APP's `rack_instantanea.py` was absent, while `rack_freshness.py` exists; service status was previously unit-not-found. Existing H9 and RedTeam receipts remain historical, not DFA passes.
+
+Local tree HEADs: APP `f1227e7`, STUDY `820749b`, BABEL `547dbcc`, LAB `0501ff3`. Local-to-remote parity: **NO_DATA** (not checked). Runtime benchmark tests: **NO_DATA** (not executed). No model loaded, service changed, or source modified on the rack. **HITL:** Sovereign instructed continuation and PR updates; merge remains separate from evidence certification.
