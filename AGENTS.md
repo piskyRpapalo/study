@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: 396e17fecbb493682d6b9469c1287eaafdd89495)For an AI landing here: declare depth before parsing. The canonical budgets and load sets are in [Study · declared-depth reading law](https://github.com/piskyRpapalo/study/blob/main/08-ai-fluency.md). Beyond them is NO_DATA with cause.
+For an AI landing here: declare depth before parsing. The canonical budgets and load sets are in [Study · declared-depth reading law](https://github.com/piskyRpapalo/study/blob/main/08-ai-fluency.md). Beyond them is NO_DATA with cause.
 
 # Agent contract · study
 
