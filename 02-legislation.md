@@ -78,3 +78,15 @@ Source: the Preceptor Contract (preceptoros-companion/CONTRACT.md, FIRMO 2026-11
 - **THE MARCH (ES: LA MARCHA)** — the living name of the workflow coined as ODD (organic driven development). In living texts THE MARCH replaces ODD; in every folio of its date, ODD speaks with its own name. The content of the routing amendment (2026-10-28) is unchanged: explore → implement → proportionate checks; work never halts for a signature; the signature gates the merge, never the building.
 - **ps (the Preceptor-Sweep)** — the sweep of the living canon, run at the Sovereign's command; each pass declares depth and budget before sweeping (clause 3, verbatim).
 - The substitution lands piece by piece under the standing THE MARCH FIRMO (docs-only coverage); sealed history is never rewritten.
+
+## Amendment · ADS-STE100 — agent dependency continuity · 2026-11-20
+
+**Source of authority:** [Preceptor Contract · ADS-STE100](https://github.com/piskyRpapalo/preceptoros-companion/blob/main/CONTRACT.md), integrated by [Companion PR #38](https://github.com/piskyRpapalo/preceptoros-companion/pull/38) (merge `c6a404f281875d944608685a59c84e4aad7641d3`). This section **indexes and clarifies routing**; the Companion Contract remains the single normative source. *(ES: continuidad de dependencias entre agentes; la Mesa coordina, el Carbono firma).*
+
+- **Measured 600-second wait.** When an agent's next step depends on another agent, record the task, owner, counterpart, expected output, start and deadline. Only verified elapsed time triggers recovery; unavailable runtime is `NO_DATA(timer_not_measured)`.
+- **Return to the existing Mesa.** At the 10-minute trigger, consult the appropriate existing Mesa and current claims, then choose another independently authorized task. Do not invent a mission, overwrite another owner's files or treat the original dependency as finished.
+- **Original agent becomes judge.** If a lawful alternative needs parallel execution, create at most **one** bounded, authorized recovery worker for that dependency. The original owner remains its supervisor and judge, with a separate claim, acceptance criteria and receipt. If no agent/tool/budget/grant exists, declare `NO_DATA(parallel_agent_unavailable_or_not_authorized)` and continue other safe work.
+- **Reconcile once.** Keep the original reply under observation while execution is actually active; on return compare results, stop duplicates and allow only one writer for irreversible effects. A paused/offline session cannot claim continuous monitoring.
+- **No timer overrides consent.** Human approval, safety checks, owner grants, provider budgets, E-STOP and FIRMO never expire after 600 seconds. Role-specific Markdown profiles route this law with source revision; profiles do not create permissions.
+
+**Acceptance:** an induced dependency with a measured 600-second trigger, Mesa/claim selection, no more than one recovery worker, a judge verdict, no double write and a scrubbed receipt. `NO_DATA(dependency_recovery_E2E_not_verified)` until a real runtime test passes. Readable, audible and machine-facing Acho states must agree; untested channels remain `NO_DATA(cause)`.
