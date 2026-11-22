@@ -90,3 +90,15 @@ Source: the Preceptor Contract (preceptoros-companion/CONTRACT.md, FIRMO 2026-11
 - **No timer overrides consent.** Human approval, safety checks, owner grants, provider budgets, E-STOP and FIRMO never expire after 600 seconds. Role-specific Markdown profiles route this law with source revision; profiles do not create permissions.
 
 **Acceptance:** an induced dependency with a measured 600-second trigger, Mesa/claim selection, no more than one recovery worker, a judge verdict, no double write and a scrubbed receipt. `NO_DATA(dependency_recovery_E2E_not_verified)` until a real runtime test passes. Readable, audible and machine-facing Acho states must agree; untested channels remain `NO_DATA(cause)`.
+
+
+## Amendment · effective file-size scopes after 2026-11-01 decree (documented 2026-11-22)
+
+**Source:** dated [Sovereign decree of 2026-11-01](https://github.com/piskyRpapalo/roadmap/blob/main/odd/DECRETO-TECHO-NUEVO-20261101.md) (private Roadmap, may require permission); publicly cross-recorded in [LAB AGENTS.md](https://github.com/piskyRpapalo/lab/blob/main/AGENTS.md). *(ES: se revoca el techo general de archivo, no el del recibo ni el del bloque CDN.)* This is an append-only correction to the *effective reading* of the dated 2026-10-22 source-piece paragraph above, **not** an erasure of that history or a runtime change.
+
+- **General source-piece/file 16,384-byte efficiency ceiling: REVOKED** by 2026-11-01. The original historical provision above remains exactly as enacted on its date. Do not silently enforce or reintroduce it as a universal file-size gate.
+- **Channel event / signed or unsigned receipts: strictly below 1,024 UTF-8 bytes remains** as independently scoped under the channel contract. This is distinct from the source-file size and must never be relaxed merely because a larger piece fits on disk.
+- **Deployed chunk: at most 25 MiB per block remains**, separate from a whole-site first-load budget and from Android performance constraints. Passing this limit is not proof that Android can render the payload.
+- **Specialized schema budgets, including custom world pages, immutable envelopes and frames:** `NO_DATA(scope_not_reverified_per_own_contract)`; do not infer their repeal or validation from the general source-piece decree. Each must be checked against its own verifier before a code change.
+
+See the [Babel reconciliation review](https://github.com/piskyRpapalo/babel/pull/9); Babel remains the one vocabulary house. This Study amendment clarifies legislation only and coins no term. **Risk:** changing a parser based on a doctrinal note could accidentally relax a distinct security/safety fence. **Next:** an independent scoped validator inventory and two separate test runs under its owning repo before any code migration. **Evidence from this action:** GitHub file read/write only, `NO_DATA(local_tests_not_executed)`; no active security study, TRAIN-02 training, CLI or service was touched.
