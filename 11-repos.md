@@ -134,3 +134,30 @@ Measured via the GitHub API on 2026-11-06 by the Desk (Mesa GLM/Vibe). Two findi
 **Law reaffirmed:** the census must reproduce the real repository list exactly; drift is RED. Head anchors of this re-measurement: preceptoros-web main 81cfb783 · preceptoros-companion main 1e2af7fe · study main e4dcb204 (pre-amendment) · p0x main 49c9ef50 · babel main 547dbcc8 · aduana main d04f9543.
 
 Agent: preceptor-orquestador-github (Mesa) · Model: GLM (Vibe) · Run: NO_DATA
+
+
+## Amendment 2026-11-22 — authenticated owner census (20 repositories, 19 unarchived)
+
+**Method and scope.** GitHub connector `list_repositories(owner=piskyRpapalo, page_size=100)`, read 2026-11-22 UTC, with per-repository `visibility` and `archived` metadata. This is an **authenticated owner-repository inventory**, not proof of deployed services, model training, local clones, the current readiness of a PR, or the existence of an OWNER grant. Exact request response: 20 repositories; **9 public**, **11 private**; **19 unarchived**, **1 archived**. The prior 2026-11-09 Roadmap consolidation proposal reported 19; the current owner inventory differs by +1, and historical counts remain dated rather than overwritten.
+
+### Public (9)
+
+- `piskyRpapalo` — GitHub profile.
+- `preceptoros-app` — APP (formerly `PreceptorOS`; this is a rename, not a second repository).
+- `preceptoros-web` — WEB.
+- `lab` — measured experimental record.
+- `study` — public doctrine (this repository).
+- `preceptoros-companion` — companion admission door.
+- `babel` — single vocabulary registry.
+- `preceptoros-public-mesa` — public mission table.
+- `textcad` — public repository; integration status: `NO_DATA(no_cross_repo_dependency_audit_in_this_census)`.
+
+### Private (11; names only, no private implementation details)
+
+`p0x` · `aduana` · `buzon` · `CineK` · `firmas` · `hexelion-nexo` · `roadmap` · `preceptoros-terminal` · `preceptoros-atlas` · `preceptoros-private-mesa` · `preceptoros-coder` (**archived**).
+
+**Classification.** 19 unarchived repositories includes `CineK` (independent/external per the 2026-11-06 amendment) and the profile repository; none may be deleted, folded, or repointed by this census. `preceptoros-coder` remains archived, not deleted. Repository absence from the 2026-11-09 proposal is evidence of documentation drift, **not** evidence that its purpose or dependencies are obsolete.
+
+**Where decisions live.** The [existing consolidation proposal](https://github.com/piskyRpapalo/roadmap/blob/main/docs/repository-consolidation-20261109.md) remains **PROPOSED**; the [two-catalog migration plan](https://github.com/piskyRpapalo/roadmap/blob/main/docs/two-mission-catalogs-migration-20261109.md) remains a separate authority-gated plan. The current inventory cannot sign, merge, archive, migrate secrets or redefine the single vocabulary source.
+
+**NO_DATA(cause):** comprehensive live branch/CLI worktrees, actual runtime consumers of each repository, and current tests for these docs (`not_run_read_write_only_audit`). No active study, model training, CLI, host service, or release was changed by this amendment. *(ES: censo autenticado actual; los números históricos y los permisos siguen separados.)*
