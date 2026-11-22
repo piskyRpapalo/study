@@ -6,13 +6,15 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 
 class ScopedCeilingTests(unittest.TestCase):
-    def test_law_declares_three_independent_scopes_and_preserves_first_load_gate(self):
+    def test_current_law_has_three_active_size_domains_no_legacy_source_cap(self):
         law = (ROOT / "02-legislation.md").read_text(encoding="utf-8")
-        self.assertIn("deployed chunk ceiling (25 MiB)", law)
+        self.assertIn("The former 16,384-byte source-file ceiling has no current force", law)
+        self.assertIn("25 MiB", law)
+        self.assertIn("1 GB", law)
+        self.assertIn("strictly **below 1,024 UTF-8 bytes**", law)
+        self.assertIn("No global fourth source-piece limit exists", law)
+        # The 2026-10-22 text stays available solely as append-only history.
         self.assertIn("source-piece efficiency rule (16,384 B)", law)
-        self.assertIn("channel-event ceiling (1,024 B)", law)
-        self.assertIn("strictly under 1,024 UTF-8 bytes", law)
-        self.assertIn("first-load gzip gate remains a separate measured limit", law)
 
     def test_navigation_points_to_the_single_ceiling_law(self):
         agents = (ROOT / "AGENTS.md").read_text(encoding="utf-8")
