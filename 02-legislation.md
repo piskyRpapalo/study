@@ -2,7 +2,7 @@
 
 - **D1 (language law)** — English only in served code; no comments in served code. The D1 Guardian catches stray Spanish before commit.
 - **D3 (file-name map)** — The regulated renaming of served files (mar.js→sea.js, cria.js→brood.js…). Adopted as official; executed piece by piece under sign-off. Never all at once.
-- **one-piece efficiency rule (16,384 B)** — One piece = one file ≤ 16,384 B. Over the rule: prune or declare a split; the rule is never raised silently. This is an efficiency rule, modifiable by the Desk (D-B, FIRMO 2026-10-22); it is not a security limit. The 25 MiB deployed-chunk ceiling stays a technical limit.
+- **former one-piece efficiency rule (16,384 B) — REVOKED 2026-11-01** — This historical limit no longer caps general source files ([Sovereign decree](https://github.com/piskyRpapalo/roadmap/blob/main/odd/DECRETO-TECHO-NUEVO-20261101.md)). The independently scoped deployed-chunk, receipt and service-specific limits remain.
 - **channel ceiling (1,024 B)** — The body of a channel event is under 1 KiB; it is rejected whole if it does not fit, never truncated.
 - **append-only** — History is only added to, never rewritten. An amendment is a new entry, not an edit.
 - **single-writer (no HLC this phase)** — One writer per register: insertion order IS causal order; `utc` is declared, carries no authority, and orders nothing. Hybrid logical clocks would only enter with multiple writers, under a separate sign-off.
@@ -12,7 +12,7 @@
 - **NO_DATA doctrine** — What is not measured is declared NO_DATA with a cause, never invented. "NO_DATA, cause: X" is a valid answer; a guess is not.
 - **A11Y law** — Text and drawing never cover each other; text moves to the left side when it covers art. Accessibility is law, not taste.
 - **AI Act Article 14 pieces** — The app carries compliance artifacts (a game-policy file and a node-decide script aligned with EU AI Act Article 14, human oversight). Compliance pieces are declared, never claimed: no legal-compliance claim is ever made from the shape of an artifact.
-- **push embargo** — One machine of the fleet sits under a permanent push embargo; nothing is ever pushed there. Public traffic is zero: the app is local-first; the web makes zero external requests on load.
+- **former Jetson push embargo — SUPERSEDED for current guidance** — Historic blanket prohibition is not a universal rule for a preceptor or target. A push/deployment depends on the current mission, effective device grant, privacy preflight, target contract and reversible receipt; a remaining technical NO-PUSH fence must not be bypassed. The local-first and no-external-request-on-load policies are independent.
 - **external-collision law** — A coined term that collides with a live third-party product in the project's own category is renamed; a collision with a generic word is absorbed by definition. Verdicts live in `10-collisions.md`, each under the Sovereign's sign-off. *(ES: ley de colisión externa — choque con producto vivo en la propia categoría se renombra; choque con palabra genérica se absorbe por definición.)*
 
 ## Amendment · scoped technical ceilings · 2026-10-22
@@ -20,7 +20,7 @@
 This entry governs active technical ceiling references; earlier shorthand remains historical and does not define a second limit.
 
 - **deployed chunk ceiling (25 MiB)** — One deployed chunk may not exceed 25 MiB. This is not a whole-site first-load budget.
-- **source-piece efficiency rule (16,384 B)** — One source piece is one file of at most 16,384 bytes. Efficiency rule, modifiable by the Desk; not a security limit.
+- **source-piece efficiency rule (16,384 B) — historical 2026-10-22 amendment, revoked 2026-11-01** — The general source-file limit is no longer operative; do not confuse it with independently scoped technical budgets ([later decree](https://github.com/piskyRpapalo/roadmap/blob/main/odd/DECRETO-TECHO-NUEVO-20261101.md)).
 - **channel-event ceiling (1,024 B)** — A valid event body is strictly under 1,024 UTF-8 bytes; 1,024 bytes and above are rejected whole.
 
 These scopes are independent and cannot substitute for one another. The web first-load gzip gate remains a separate measured limit. This amendment supersedes the active-limit shorthand in `10-collisions.md`; its historical text is preserved.
@@ -41,7 +41,7 @@ Source: the Sovereign's ODD decree (2026-10-28, transcribed in the Book), inspir
 - **ODD (organic driven development)** — Explore → implement → proportionate checks is the standing workflow for substantial authorized work. Small, understood work creates no durable task artifact; investigation and proposal-only work stay read-only.
 - **feature document** — Substantial work is tracked in `odd/tasks/<feature-name>.md`: objective, checklist with stable IDs, verification evidence, next step. One feature, one document, one name — no parallel plans, no task noise.
 - **work-unit commits** — Commits land as reviewable work units (about 400 authored lines, advisory, never a cap). An oversized forecast routes through a feature-branch chain; in unattended mode the chain is chosen and recorded, never waited on.
-- **the standing-signature rule** — A step that would need a signature never halts the work: the standing signature is searched for in the corpus first (the signed Book, ideas, examples, and jewels count as signed); the modification is recorded and the work continues. A fresh FIRMO gates the merge of the exact head — never the building.
+- **the standing-signature rule (current reading)** — Check real Sovereign decisions and authenticated, bounded delegation in the signing book and destination gate; ideas, jewels, examples and model output are sources, **not signatures**. Continue independently authorized work, but do not bypass a denied effect. The exact-head or actually supported delegated grant controls merge, not the preceptor's identity.
 - **delivery gates unchanged** — ODD unblocks the work, not the merge: checks that can go red, the receipt, HITL by hash, and the Sovereign's FIRMO on code, seal, and infrastructure heads are never skipped.
 
 
