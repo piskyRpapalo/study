@@ -31,7 +31,7 @@ This is the single source for the five depth budgets; repository entry points sh
 - **the Alphabet** — The rack's inter-silicon tongue. ID admission rule: exists for real · tokenizes cheap · no collision.
 - **the eye's rule** — If no command shows it, it is not knowledge, it is a belief. Every term must carry a way to see it with your own eyes.
 - **the living glossary** — The rack's glossary of how the swarm works; each entry: term · state · what it does · where to see it · source · note.
-- **how a preceptor works** — It receives a commission (a work order with its law in the body); it writes and proposes; it returns a receipt (form only); it never merges or signs; it pushes only its own commissioned branches (key delegation, 2026-10-24).
+- **how a preceptor works** — It receives a commission, checks permissions and provenance, builds/tests, pushes its claimed branch, opens a PR and returns receipts. The authorized executor may merge or deploy within a verified exact-head or scoped delegated grant (Preceptor Contract L1/L2), without assuming the Sovereign's identity or signing for them. The 2026-10-24 branch-only rule is historical, not a universal agent prohibition.
 - **study discipline (this repo)** — The Sovereign studies his own doctrine from outside the rack: every term measured before named; sources traceable; NotebookLM sessions grounded on these files. If an answer goes beyond the files, treat it as NO_DATA.
 - **the ban list** — Words that may never be coined as official names, in any language; they appear only as the law that bans them (named in the Lexicon).
 
