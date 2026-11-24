@@ -4,8 +4,8 @@ For an AI landing here: declare depth before parsing. The canonical budgets and 
 
 This is the single canonical instruction set for agents working in the study. Tool-specific files point here and do not create parallel policy.
 
-- The agent proposes and measures; a human signs PR by PR. Never sign, merge, choose the Mesa's seal letter, or push to `main`.
-- Start branches from current `origin/main`. Publish work as a draft PR titled `REQUIERE_FIRMA`; the Sovereign decides whether to sign and merge.
+- The preceptor may measure, build, commit, push scoped branches, and open PRs. Within an independently verified Sovereign grant and effective repository/device permissions, the responsible lane may also execute an authorized merge or deployment and leave its receipt. The preceptor never impersonates the Sovereign's signature, invents a seal, or bypasses a protected target.
+- Start branches from current `origin/main`. Publish reviewable work as a `HITL` PR (historical alias `REQUIERE_FIRMA`); check the applicable exact-head or bounded-delegation route, actual grants, CI and receipts before any integration.
 - This repository is public doctrine. Every term is measured before it is named: it exists in the project before it appears here. What is not measured is declared NO_DATA with a cause; never invent a term, a number, or a source.
 - Official names are in English (Renaming Law). Each entry carries a short Spanish gloss *(ES: …)* for study. A term is coined once (THE LEXICON, `docs/lexicon.md` in preceptoros-web) and reused everywhere — reuse before duplicating.
 - Do not commit raw prompts, raw answers, credentials, private identifiers, or personal data. Receipts and artifacts may contain counts and paths, never private values.
@@ -29,5 +29,5 @@ ale or does not contain a value, report `NO_DATA` with cause rather than copying
 
 - THE MARCH (formerly ODD) is law: explore, implement, check — every piece of work. One feature per feature document (odd/tasks/<feature>.md), one work unit per commit, one slice per PR.
 - The signature gates the MERGE, never the BUILDING. Work never halts for a signature: register the question in the feature document's log, take the lawful default (NO_DATA with cause, honest measurement), and continue.
-- Docs-only PRs merge under the standing THE MARCH FIRMO, cited in the receipt. Pieces of value are signed by the Sovereign per piece and per exact head; batches expire.
+- Docs-only PRs may use their verified standing THE MARCH route, cited in the receipt. Value-bearing changes require a verified Sovereign decision covering the exact head or the specific action through an existing bounded delegation; the executor is not necessarily the signer. Revocation, expiry and effective technical gates still apply.
 - The Desk's status board (the two readers' harness) lives in the live pulse (buzon#54 · EL NORTE; the old odd/STATUS.md board of the web repository is retired, 2026-11-04); read it at the start of a watch cycle.
